@@ -1,0 +1,48 @@
+
+[
+
+  [
+    {
+      "op": "add",
+      "path": "/greeting/satkyterran",
+      "value": {
+        "default": [
+          "Hello.",
+          "Greetings.",
+          "Salutations!",
+          "Nice to meet you.",
+          "I hope you are well, my friend.",
+          "Welcome traveler.",
+          "Nice to make your acquaintance",
+          "Hi.",
+		  "Hiya",
+          "Hello"
+        ]
+      }
+    }
+  ],
+  
+[
+    {
+      "op": "add",
+      "path": "/converse/satkyterran",
+      "value": {
+		"generic":[
+          "This place needs more sand.",
+		  "It's comforting to have land below my legs again."
+		  ],
+		"satkyterran":[
+          "This place needs more sand.",
+		  "It's comforting to have land below my legs again."
+		  ],
+        "default": [
+          "Why are you looking at me like that? Have you never seen a Kyterran before?",
+		  "Huh? What are you?",
+          "...",
+          "Most of us Kyterran live below the ground, so we have no ships. Our new alliance is the only reason we can travel space at all."
+        ]
+      }
+    }
+]
+ 
+]

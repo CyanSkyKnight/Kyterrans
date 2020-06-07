@@ -1,0 +1,27 @@
+{
+  "metadata" : {
+    "name" : "kyterran_chasm",
+    "species" : "kyterran",
+    "rules" : [
+    ],
+    "anchor" : [ "kyterran_chasm" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 30,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+  
+    {
+      "name" : "kyterran_chasm",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "kyterran_chasm" ] ]
+		
+      ],
+      "def" : [ "tmx", "kyterran_chasm.json" ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 12
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "kyterranT8.png",
+      "position" : [14, 36],
+      "fullbright" : true
+    },
+    {
+      "image" : "kyterranT8lit.png",
+      "position" : [14, 36]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "kyterranT8blocks.png"
+}

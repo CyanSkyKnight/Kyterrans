@@ -1,0 +1,21 @@
+{
+	"id" : "kyterranDesert",
+	"title" : "Mt. Kyta Region",
+	"description" : "A guide to the Kyterra region.",
+	"icon" : "kyterranlore.png",
+	"contentPages" : [
+
+    "Placeholder",
+	
+	" "
+
+
+
+	
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

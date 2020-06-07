@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/kyterranStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	   {"pool" : "starterTreasure"},
+        {"item" : [ "kyterran_clawglove", 1 ]},
+		{"item" : [ "kyterran_clawglove", 1 ]},
+		{"item" : [ "kyterranDaggerT0", 1 ]},
+		
+		{"item" : [ "sand2", 100 ]},
+		
+		{"item" : [ "coffeeseed", 1 ]},
+        {"item" : [ "mocha", 1 ]}
+      ]
+    }]]
+  }
+]

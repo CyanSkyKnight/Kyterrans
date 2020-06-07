@@ -1,0 +1,71 @@
+[
+  { "op" : "add",
+    "path" : "/items/satkyterran",
+    "value" : [
+      [0, [
+        {
+		
+		
+         "head" : [
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			
+			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			
+			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			
+			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
+			
+			
+			{ "name" : "saturnscarf", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnscarf", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },			
+			{ "name" : "saturnscarf2", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnscarf2", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },			
+			
+			{ "name" : "saturnVoidmageOldhead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnNocturneRobeBhead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnNocturneRobehead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnVoidMagehead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnNecromagehead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturntier4headnotevil", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+          ],
+          "chest" : [
+			{ "name" : "saturnAshkytchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnAshkyt2chest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnAshkyt3chest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			
+			{ "name" : "saturnnullchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnnullchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnnullchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+          ],
+          "legs" : [
+			{ "name" : "saturnAshkytlegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnAshkyt2legs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnAshkyt3legs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnnullpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnnullpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
+			{ "name" : "saturnnullpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+          ]
+        }
+      ] ]
+    ]
+  }
+  
+   
+  
+]
