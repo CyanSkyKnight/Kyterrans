@@ -5,8 +5,8 @@
   "rarity" : "Common",
   
   "category" : "decorative",
-  "description" : "Trusty teleporter, what would we do without you?",
-  "shortdescription" : "Teleporter",
+  "description" : "A disabled teleporter. Power needs to be redirected to it.",
+  "shortdescription" : "Kyt. Powerless Warp Pad",
   "race" : "kyterran",
   "apexDescription" : "The ship's teleporter. I need to power it up.",
   "avianDescription" : "The teleporter If only this one was powered up.",
@@ -15,6 +15,7 @@
   "humanDescription" : "The teleporter Too bad it isn't powered up.",
   "hylotlDescription" : "This teleporter is off.",
   "novakidDescription" : "Ship's teleporter. I need to power her up",
+  "kyterranDescription" : "Ugh... Nowhere near as soft as sand...",
   "objectType" : "loungeable",
   "sitFlipDirection" : true,
   "sitOrientation" : "lay",

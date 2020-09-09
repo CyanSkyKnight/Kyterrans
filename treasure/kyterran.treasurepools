@@ -1,0 +1,16 @@
+{
+	"kyterranStarterTreasure" : [
+		[0, {
+      "fill" : [
+				{ "pool" : "starterTreasure"},
+				{ "item" : [ "kyterranDaggerT0", 1 ]},
+				{ "item" : [ "sand2", 100 ]},
+				{ "item" : [ "crystal", 5]},
+				{ "item" : [ "coffeeseed", 1 ]},
+				{ "item" : [ "mocha", 1 ]},
+				{ "item" : [ "saturnslopedglass", 100]},
+				{ "item" : [ "saturnslopedbrasspanel", 100]}
+      ]
+		} ]
+	]
+}

@@ -1,3 +1,20 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/satkyterran", "value" : [ "protectorate1", "protectorate2", "kyterranlore" ] }
+
+{ "op" : "add", "path" : "/species/-",
+"value" : "satkyterran"
+},
+
+
+{
+"op": "add",
+"path": "/defaultCodexes/satkyterran",
+"value": [ "protectorate1", "protectorate2" ]
+},
+
+{
+"op": "add",
+"path": "/deploymentConfig/speciesStarterMechBody/satkyterran",
+"value":  "mechbodyglitchproto" 
+}
+
 ]

@@ -1,0 +1,37 @@
+{
+  "itemName" : "kyterranMaceT5",
+  "level" : 5,
+  "price" : 760,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Made from crystals that can lift islands into the sky. Do not throw.",
+  "shortdescription" : "Skygem Maul",
+  "tooltipKind" : "sword",
+  "category" : "axe",
+  "twoHanded" : false,
+  "itemTags" : ["weapon", "melee", "mace", "upgradeableWeapon"],
+  "inventoryIcon" : "kyterranMaceT5.png",
+  "animation" : "/items/active/weapons/melee/axe/axe.animation",
+  "animationParts" : {
+    "blade" : "kyterranMaceT5.png",
+    "handle" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/swing_axe.ogg" ]
+    }
+  },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "physical",
+  "aimOffset" : -1.0,
+  "primaryAbilityType" : "axecleave",
+  "primaryAbility" : {
+    "fireTime" : 1.05,
+    "baseDps" : 8,
+    "damageConfig" : {
+	  "damageSourceKind" : "hammer",
+      "knockback" : 50
+    }
+  },
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

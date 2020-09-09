@@ -3,32 +3,29 @@
    "charCreationTooltip" : {
       "title" : "kyterran",
       "subTitle" : "SiO2",
-      "description" : "Antlion-like species that lives in ashlands and deserts. Kyterran cannot be set on fire and are 25% resistant to fire damage."
+      "description" : "Most of these subterranean antlions have kept to themselves until a relatively recent alliance with the Saturnians of Solalei. They live below ashlands, deserts, and mountains on the planet Myrasyl. "
   },
-  
+
   "humanoidConfig" : "/species/kyta_antlionoid.config",
   
   
-
+  
   "nameGen" : [ "/species/kyterrannamegenmale.config:names", "/species/kyterrannamegenfemale.config:names" ],
-  "ouchNoises" : [ "/sfx/humanoid/saturn_sfx2b.ogg", "/sfx/humanoid/saturn_sfx1b.ogg", "/sfx/humanoid/saturn_sfx1c.ogg", "/sfx/humanoid/saturn_sfx1d.ogg", "/sfx/humanoid/saturn_sfx2.ogg", "/sfx/humanoid/saturn_sfx3.ogg" ],
-  "gruntNoises" : [ [ "/sfx/humanoid/saturn_sfx3.ogg", "/sfx/humanoid/saturn_sfx2.ogg.ogg" ], [ "/sfx/humanoid/saturn_sfx1.ogg", "/sfx/humanoid/saturn_sfx1b.ogg"] ],
-  "charGenTextLabels" : [ "Primary Color", "Antennae Style", "Sleeves", "Outfit", "Lens Color", "Alt Color", "Sleeve Color", "Outfit Color", "KYTERRAN", "Personality" ],
-  "effectDirectives" : "?replace=FEFFFFFF=000001FF?replace=9bd4ffFF=0F9D6CFF?replace=31a6ffFF=40DEB4FF",
-   
-  "statusEffects" : [ "satkyterran_fireblock", "satkyterranRundust" ],  
+  "ouchNoises" : [ "/sfx/humanoid/saturnkyta_hurtsfx1.ogg", "/sfx/humanoid/saturnkyta_hurtsfx2.ogg" ],
+  "gruntNoises" : [ [ "/sfx/humanoid/saturn_sfx3.ogg", "/sfx/humanoid/saturn_sfx2.ogg" ], [ "/sfx/humanoid/saturn_sfx1.ogg", "/sfx/humanoid/saturn_sfx1b.ogg"] ],
+  "charGenTextLabels" : [ "Primary Color", "Antennae Style", "Shirt", "Pants", "Lens Color", "Alt Color", "Shirt Color", "Pants Color", "KYTERRAN", "Personality" ],
+  "effectDirectives" : "?replace=FEFFFFFF=251200FF?replace=9bd4ffFF=9E4700FF?replace=31a6ffFF=FD6700FF?replace=24232FFF=3D1803FF?replace=3D3D51FF=63350DFF?replace=676F83FF=C78A2AFF?replace=9DA8AFFF=DBA14AFF?replace=303030FF=3F3B31FF?replace=555555FF=6D6956FF?replace=808080FF=939380FF?replace=FD8F4DFF=FD6700FF?replace=FDD14DFF=9E4700FF?replace=FFFFFFFF=251200FF",
+  
+  "statusEffects" : [ "satkyterran_fireblock", "satkyterranRundust" ],   
    
   "defaultBlueprints" : {
     "tier1" : [
 // Empty Hands
       { "item" : "flagkyterran" },
-	  
 // Spinning Wheel
 	  { "item" : "kyterran_mannequin" },
 
-
-// Vanilla Weapons
-
+// Weapons
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
 
@@ -40,9 +37,30 @@
 
       { "item" : "durasteelbroadsword" },
       { "item" : "durasteelshortsword" },
-	  
 
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
 	  
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+	  { "item" : "kyterranMaceT1" },	  
+	  { "item" : "kyterranMaceT2" },
+	  { "item" : "kyterranMaceT3" },	 	  
+	  { "item" : "kyterranMaceT4" },
+	  { "item" : "kyterranMaceT5" },	 	  
+	  { "item" : "kyterranMaceT6" },
+	  
+	  { "item" : "kyterran_ultraswordT1" },	  
+	  { "item" : "kyterran_ultraswordT2" },
+	  { "item" : "kyterran_ultraswordT3" },	 	  
+	  { "item" : "kyterran_ultraswordT4" },
+	  { "item" : "kyterran_ultraswordT5" },	 	  
+	  { "item" : "kyterran_ultraswordT6" },
+
 // Armor
 
       { "item" : "kyterran_tier1head" },
@@ -87,36 +105,184 @@
       { "item" : "kyterran_tier6shead" },
       { "item" : "kyterran_tier6schest" },
       { "item" : "kyterran_tier6spants" },
-//Mage
-      { "item" : "feroziumwand" },
-      { "item" : "feroziumstaff" },
+	  
+// Furniture Table
+      { "item" : "glitchstoragelocker" },
+      { "item" : "glitchshipdoor" },
+      { "item" : "glitchshiphatch" },
 
-//Warrior
-      { "item" : "violiumshortsword" },
-      { "item" : "violiumbroadsword" },
+      { "item" : "saturnbookcase" },
+      { "item" : "saturncanvas" },
+      { "item" : "saturncrystalball" },
+      { "item" : "saturncrystallamp" },
+      { "item" : "saturncrystallampOrange" },
 	  
-//REMOVE=================================================
-	  { "item" : "saturnMaceT1" },	  
-	  { "item" : "saturnMaceT2" },
-	  { "item" : "saturnMaceT3" },	 	  
-	  { "item" : "saturnMaceT4" },
-	  { "item" : "saturnMaceT5" },	 	  
-	  { "item" : "saturnMaceT6" },
+	  { "item" : "saturncirclesollamp" },
+      { "item" : "saturncirclesollampblue" },
+	  
+      { "item" : "saturnebonychair" },
+      { "item" : "saturnebonytable" },
+	  
+	  
+      { "item" : "glitchstoragelocker" },
+      { "item" : "glitchshipdoor" },
+      { "item" : "glitchshiphatch" },
+	  
+      { "item" : "saturnshiplocker" },
+	  
+      { "item" : "saturnshipdoor" },
+      { "item" : "saturnshiphatch" },
+	  
+      { "item" : "saturnshipdoor2" },
+      { "item" : "saturnshiphatch2" },
+	  
+	  { "item" : "saturnicebox2" },
+//Tiles
+	  { "item" : "saturnebony" },
+	  { "item" : "saturnbirch" },
+	  { "item" : "saturnOak" },
+	  { "item" : "saturnMaho" },
 
-//Ranger
+	  { "item" : "saturnslopedpanel" },
+	  { "item" : "saturnslopedpanelBirch" },
+	  { "item" : "saturnslopedpanelOak" },
+	  { "item" : "saturnslopedpanelMaho" },	  
+	  
+	  { "item" : "saturncolorfulclaywalls" },
+	  { "item" : "sathomewalls1" },
+	  { "item" : "saturnslopedhomewalls" },	
+	  { "item" : "saturnslopedglass" },
+	  { "item" : "saturnslopedmetalpanel" },	  
+	  { "item" : "saturnslopedbrasspanel" },
+	  { "item" : "saturnslopedstainedglass" },	 
+//Misc Armor	  
+      { "item" : "saturnSoldierhead" },
+
+//Clothes
+      { "item" : "saturngoggles" },
+      { "item" : "saturngoggles2" },
+      { "item" : "saturngoggles3" },
+	  
+	  { "item" : "saturnStarhatAnt" },
+	  { "item" : "saturnCirclet" },
+	  { "item" : "saturnCircletSilver" },
+	  { "item" : "saturnStarhat" },
+	  { "item" : "saturnglasses" },
+	  { "item" : "saturnglasses2" },
+	  { "item" : "saturnglasses3" },
+	  { "item" : "saturnglasses4" },
+
+//1.0.4 stuff
+	  { "item" : "saturnHeavyHood" },
+	  { "item" : "saturnHeavyScarfedHood" },
+	  { "item" : "saturnHeavyFluffhood" },
+	  { "item" : "saturnscarf" },
+	  { "item" : "saturnscarf2" },
+	  { "item" : "saturnnull" },
+	  { "item" : "saturnnullchest" },
+	  { "item" : "saturnnullpants" },
+	  { "item" : "saturnkyterranHelmhead" },
+//1.1 stuff
+
+	  { "item" : "saturnNocturneRobehead" },
+
+	  { "item" : "saturnNocturneRobeBhead" },
+
+	  { "item" : "saturnornaterobeshead" },
+
+	  { "item" : "saturnVoidMageOldchest" },
+	  
+	  { "item" : "saturnlightstaff2" },
+	  { "item" : "saturnfishingwand" },
+	  
+	  { "item" : "saturnFluffScarf" },
+	  { "item" : "saturnFluffScarf2" },
+	  
+//1.1.1
+	  {"item" : "saturnLumothMask"},
+	  {"item" : "saturnVoidMageOldpants"},
+	  {"item" : "saturnRena1chest"},
+	  {"item" : "saturnRobechest"},
+	  {"item" : "saturnnoblelegs"},
+	  {"item" : "saturnFakeProboscis"},
+	  
+//1.1.2
+	  {"item" : "saturntier4headnotevil"},
+
+	  {"item" : "saturnKypteranHelmhead"},
+	  {"item" : "saturnCircletObsidian"},
+	  
+	  {"item" : "saturnBuckledHat"},
+	  {"item" : "saturnShadowhat"},
+	  {"item" : "saturnStarhat2"},
+	  {"item" : "saturnTophat"},
+	  {"item" : "saturnTophat2"},
+	  {"item" : "saturnSunHat"},
+	  {"item" : "saturnWideHat"},
+	  {"item" : "saturnWideShadyHat"},
+	  {"item" : "saturngoggles4"},
 	  
 	  
-      { "item" : "aegisaltpistol" },
-      { "item" : "aegisaltbow" },
+//1.2
+
+	  {"item" : "outfitfitter_saturn"},
 	  
-//REMOVE=================================================
-	  { "item" : "SaturnBowT1" },	  
-	  { "item" : "SaturnBowT2" },
-	  { "item" : "SaturnBowT3" },	 	  
-	  { "item" : "SaturnBowT4" },
-	  { "item" : "SaturnBowT5" },	 	  
-	  { "item" : "SaturnBowT6" },
+	  {"item" : "saturnArmorTransmog"},
+	 
+	  {"item" : "saturnTophat3"},
+	  {"item" : "saturnSorcererRobeshead"},
+	  {"item" : "saturnWideHatUnrelated"},
 	  
+	  {"item" : "saturnForestMageUnarmoredhead"},
+
+//1.3
+	  {"item" : "saturnianEbonydoor"},
+	  {"item" : "saturnCrown"},
+	  {"item" : "saturnscarf3" },
+	  {"item" : "saturnFurnitureSummoner" },
+	  {"item" : "saturnMagicCrystalTable"},
+	  
+//1.3.2
+	  {"item" : "saturnPartyhat"},
+	  
+	  {"item" : "saturnSolChead"},
+	  {"item" : "saturnSolmechanic"},
+	  {"item" : "saturnSolmechanic2"},
+	  
+	  { "item" : "saturnNocturneRobeChead" },
+
+	  
+	  { "item" : "saturnNocturneRobeDhead" },
+
+	  
+	  { "item" : "saturnNocturneRobeNLhead" },
+	  { "item" : "saturnNocturneRobeBNLhead" },
+	  { "item" : "saturnNocturneRobeCNLhead" },
+	  { "item" : "saturnNocturneRobeDNLhead" },
+	  
+//Dye
+      { "item" : "Satcoolgreydye" },
+      { "item" : "Satcyandye" },
+      { "item" : "Satearthdye" },
+      { "item" : "Satindigodye" },
+      { "item" : "Satlimedye" },
+      { "item" : "Satmaroondye" },
+      { "item" : "Satsanddye" },
+      { "item" : "Satwarmgreydye" },
+	  
+      { "item" : "Satsundye" },
+      { "item" : "Sattealdye" },	
+	  
+      { "item" : "saturnRegalDye" },
+      { "item" : "saturnLunaDye" },
+      { "item" : "saturnIODye" },
+      { "item" : "saturnLightPinkDye" },
+      { "item" : "saturnVenoDye" },
+      { "item" : "saturnSnowDye" },
+      { "item" : "saturnMidnightDye" },
+      { "item" : "saturnEvolightDye" },
+
+	 
 // Furniture Table
 
       { "item" : "glitchstoragelocker" },
@@ -124,13 +290,11 @@
       { "item" : "glitchshiphatch" }
     ]
   },
-  
   "altOptionAsFacialMask" : true,
   "bodyColorAsFacialMaskSubColor" : true,
   "altColorAsFacialMaskSubColor" : true,
   "headOptionAsHairColor" : true,
   "hairColorAsBodySubColor" : true,
-
   "genders" : [
     {
       "name" : "male",
@@ -139,8 +303,8 @@
 	  
 	  "hair" : [ "Ky1","Ky2", "Ky3", "Ky4", "Ky5", "Ky6", "Ky7", "Ky8", "Ky9", "Ky10", "Ky329", "Ky329b", "Kynp48" ],
 	  
-	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_Protectoratechest" ],
-      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_Protectoratelegs"  ],
+	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_robesBchest", "kyterran_Protectoratechest" ],
+      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_robesBlegs", "kyterran_Protectoratelegs"  ],
       "facialHairGroup" : "",
       "facialHair" : [  ],
       "facialMaskGroup" : "kyterranfacetype",
@@ -167,8 +331,8 @@
 	  
 	  "hair" : [ "Ky1","Ky2", "Ky3", "Ky4", "Ky5", "Ky6", "Ky7", "Ky8", "Ky9", "Ky10", "Ky329", "Ky329b", "Kynp48" ],
 	  
-	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_Protectoratechest" ],
-      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_Protectoratelegs"  ],
+	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_robesBchest", "kyterran_Protectoratechest" ],
+      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_robesBlegs", "kyterran_Protectoratelegs"  ],
       "facialHairGroup" : "",
       "facialHair" : [  ],
       "facialMaskGroup" : "kyterranfacetype",
@@ -189,7 +353,7 @@
 	  ]
     }
   ],
- "bodyColor" : [
+"bodyColor" : [
 { "EFF4F4" : "EFF4F4", "D5E1E2" : "D5E1E2", "A2AEB2" : "A2AEB2", "7E8899" : "7E8899", "F4F0EF" : "EFF4F4", "E2D9D5" : "D5E1E2", "B2A9A2" : "A2AEB2", "99947E" : "7E8899" }, 
 //white
 
@@ -288,39 +452,47 @@
 
 { "EFF4F4" : "434D5B", "D5E1E2" : "353D49", "A2AEB2" : "272E3A", "7E8899" : "1C212D", "F4F0EF" : "E5DB72", "E2D9D5" : "DBC762", "B2A9A2" : "CCB551", "99947E" : "B2933E" }
 //black with alt color head
+],
 
-	],
-	"undyColor" : [
-	{ "81BCD6" : "434D5B", "61A0BA" : "353D49", "4987A2" : "120C23", "396A7F" : "0B0314" } //unused
-	],
-	"hairColor" : [ 
-		{ "E5DB72" : "EFF4F4", "DBC762" : "D5E1E2", "CCB551" : "A2AEB2", "B2933E" : "7E8899" }, //Primary white Alt Color
-		{ "E5DB72" : "ADADAD", "DBC762" : "8C8C8C", "CCB551" : "717171", "B2933E" : "515151" }, //grey
-		{ "E5DB72" : "434D5B", "DBC762" : "353D49", "CCB551" : "272E3A", "B2933E" : "1C212D" }, //black
-		{ "E5DB72" : "D3716E", "DBC762" : "B54D4A", "CCB551" : "99322F", "B2933E" : "70201D" }, //red
-		{ "E5DB72" : "6F4F4C", "DBC762" : "633F3D", "CCB551" : "563130", "B2933E" : "422725" }, //maroon
-		{ "E5DB72" : "E99C4D", "DBC762" : "CC7928", "CCB551" : "B15F0E", "B2933E" : "834303" }, //orange
-		{ "E5DB72" : "FBF7F1", "DBC762" : "F9ECDC", "CCB551" : "EBC8AD", "B2933E" : "DFB491" }, //pastel orange
-		{ "E5DB72" : "C5AA9E", "DBC762" : "AA8D81", "CCB551" : "927669", "B2933E" : "735B53" }, //lbrown2
-		{ "E5DB72" : "FFECBD", "DBC762" : "F2D3A1", "CCB551" : "DCBD8B", "B2933E" : "BBA27C" }, //sand
-		{ "E5DB72" : "E9D3AF", "DBC762" : "CAB28C", "CCB551" : "AF9771", "B2933E" : "8A775A" }, //lbrown
-		{ "E5DB72" : "846D4D", "DBC762" : "755C3A", "CCB551" : "664D2B", "B2933E" : "503C23" }, //dark brown
-		{ "E5DB72" : "C1AB87", "DBC762" : "A28A64", "CCB551" : "876F49", "B2933E" : "624F32" }, //brown
-		{ "E5DB72" : "C7BAA5", "DBC762" : "AD9F88", "CCB551" : "968872", "B2933E" : "796D5C" }, //grey brown
-		{ "E5DB72" : "F4D57F", "DBC762" : "E6C366", "CCB551" : "D6B356", "B2933E" : "B79C57" }, //yellow
-		{ "E5DB72" : "FBFBF4", "DBC762" : "F7F7E4", "CCB551" : "E7E2BE", "B2933E" : "DAD4A6" }, //wax
-		{ "E5DB72" : "D9BD5F", "DBC762" : "BA9C39", "CCB551" : "9E801E", "B2933E" : "755D10" }, //gold
-		{ "E5DB72" : "B3DE65", "DBC762" : "96C244", "CCB551" : "7DAA2C", "B2933E" : "648623" }, //lime
-		{ "E5DB72" : "F1FBF1", "DBC762" : "DFF9DC", "CCB551" : "BCEBAD", "B2933E" : "A2DF91" }, //Mint		
-		{ "E5DB72" : "61925E", "DBC762" : "467A43", "CCB551" : "2F632D", "B2933E" : "1D461C" }, //dark green
-		{ "E5DB72" : "87C19B", "DBC762" : "64A278", "CCB551" : "49875D", "B2933E" : "326241" }, //teal		
-		{ "E5DB72" : "79DAD2", "DBC762" : "58BEB5", "CCB551" : "4987A2", "B2933E" : "32827B" }, //cyan
-		{ "E5DB72" : "81BCD6", "DBC762" : "61A0BA", "CCB551" : "4987A2", "B2933E" : "396A7F" }, //cyablue
-		{ "E5DB72" : "819ED6", "DBC762" : "6181BA", "CCB551" : "4968A2", "B2933E" : "39527F" }, //blue
-		{ "E5DB72" : "8281D6", "DBC762" : "6162BA", "CCB551" : "4949A2", "B2933E" : "393A7F" }, //indigo
-		{ "E5DB72" : "A781D6", "DBC762" : "8761BA", "CCB551" : "7049A2", "B2933E" : "56397F" }, //purple
-		{ "E5DB72" : "E27B99", "DBC762" : "C65A7B", "CCB551" : "AE4262", "B2933E" : "89344F" }, //luraRed
-		{ "E5DB72" : "EFEFEF", "DBC762" : "CBD1ED", "CCB551" : "B2C6EB", "B2933E" : "9EBFE7" }, //whiteblue
-		{ "E5DB72" : "ECECEC", "DBC762" : "EAC1EA", "CCB551" : "DAA3E7", "B2933E" : "C98BE2" } //whitepink
-		]
+"undyColor" : [ { "FFFFFF" : "FFFFFF" } ], //unused 
+
+"hairColor" : [ 
+{ "E5DB72" : "EFF4F4", "DBC762" : "D5E1E2", "CCB551" : "A2AEB2", "B2933E" : "7E8899" }, //white
+{ "E5DB72" : "F2F2F2", "DBC762" : "CCC9C1", "CCB551" : "A2A296", "B2933E" : "797B6D" }, //ivory
+{ "E5DB72" : "D9D9D9", "DBC762" : "9B9B9B", "CCB551" : "707475", "B2933E" : "525759" }, //titanium
+{ "E5DB72" : "ADADAD", "DBC762" : "8C8C8C", "CCB551" : "717171", "B2933E" : "515151" }, //grey
+{ "E5DB72" : "999999", "DBC762" : "7B7B7B", "CCB551" : "4B4D4F", "B2933E" : "313235" }, //steel
+{ "E5DB72" : "434D5B", "DBC762" : "353D49", "CCB551" : "272E3A", "B2933E" : "1C212D" }, //black
+{ "E5DB72" : "D3716E", "DBC762" : "B54D4A", "CCB551" : "99322F", "B2933E" : "70201D" }, //red
+{ "E5DB72" : "6F4F4C", "DBC762" : "633F3D", "CCB551" : "563130", "B2933E" : "422725" }, //maroon
+{ "E5DB72" : "E99C4D", "DBC762" : "CC7928", "CCB551" : "B15F0E", "B2933E" : "834303" }, //orange
+{ "E5DB72" : "FBF7F1", "DBC762" : "F9ECDC", "CCB551" : "EBC8AD", "B2933E" : "DFB491" }, //pastel orange
+{ "E5DB72" : "C5AA9E", "DBC762" : "AA8D81", "CCB551" : "927669", "B2933E" : "735B53" }, //lbrown2
+{ "E5DB72" : "FFECBD", "DBC762" : "F2D3A1", "CCB551" : "DCBD8B", "B2933E" : "BBA27C" }, //sand
+{ "E5DB72" : "C4B29A", "DBC762" : "AB9781", "CCB551" : "806C5B", "B2933E" : "685448" }, //tan
+{ "E5DB72" : "B09E86", "DBC762" : "96826C", "CCB551" : "685443", "B2933E" : "4F3B2F" }, //dark tan
+{ "E5DB72" : "7F7A74", "DBC762" : "605851", "CCB551" : "3D3632", "B2933E" : "26221F" }, //carbon steel
+{ "E5DB72" : "E9D3AF", "DBC762" : "CAB28C", "CCB551" : "AF9771", "B2933E" : "8A775A" }, //lbrown
+{ "E5DB72" : "846D4D", "DBC762" : "755C3A", "CCB551" : "664D2B", "B2933E" : "503C23" }, //dark brown
+{ "E5DB72" : "C1AB87", "DBC762" : "A28A64", "CCB551" : "876F49", "B2933E" : "624F32" }, //brown
+{ "E5DB72" : "C7BAA5", "DBC762" : "AD9F88", "CCB551" : "968872", "B2933E" : "796D5C" }, //grey brown
+{ "E5DB72" : "F4D57F", "DBC762" : "E6C366", "CCB551" : "D6B356", "B2933E" : "B79C57" }, //yellow
+{ "E5DB72" : "FBFBF4", "DBC762" : "F7F7E4", "CCB551" : "E7E2BE", "B2933E" : "DAD4A6" }, //wax
+{ "E5DB72" : "D9BD5F", "DBC762" : "BA9C39", "CCB551" : "9E801E", "B2933E" : "755D10" }, //gold
+{ "E5DB72" : "B3DE65", "DBC762" : "96C244", "CCB551" : "7DAA2C", "B2933E" : "648623" }, //lime
+{ "E5DB72" : "F1FBF1", "DBC762" : "DFF9DC", "CCB551" : "BCEBAD", "B2933E" : "A2DF91" }, //Mint	
+{ "E5DB72" : "61925E", "DBC762" : "467A43", "CCB551" : "2F632D", "B2933E" : "1D461C" }, //dark green
+{ "E5DB72" : "87C19B", "DBC762" : "64A278", "CCB551" : "49875D", "B2933E" : "326241" }, //teal		
+{ "E5DB72" : "79DAD2", "DBC762" : "58BEB5", "CCB551" : "4987A2", "B2933E" : "32827B" }, //cyan
+{ "E5DB72" : "81BCD6", "DBC762" : "61A0BA", "CCB551" : "4987A2", "B2933E" : "396A7F" }, //cyablue
+{ "E5DB72" : "819ED6", "DBC762" : "6181BA", "CCB551" : "4968A2", "B2933E" : "39527F" }, //blue
+{ "E5DB72" : "8281D6", "DBC762" : "6162BA", "CCB551" : "4949A2", "B2933E" : "393A7F" }, //indigo
+{ "E5DB72" : "A781D6", "DBC762" : "8761BA", "CCB551" : "7049A2", "B2933E" : "56397F" }, //purple
+{ "E5DB72" : "E27B99", "DBC762" : "C65A7B", "CCB551" : "AE4262", "B2933E" : "89344F" }, //luraRed
+{ "E5DB72" : "EFEFEF", "DBC762" : "CBD1ED", "CCB551" : "B2C6EB", "B2933E" : "9EBFE7" }, //whiteblue
+{ "E5DB72" : "ECECEC", "DBC762" : "EAC1EA", "CCB551" : "DAA3E7", "B2933E" : "C98BE2" }, //whitepink
+{ "E5DB72" : "FFC6F0", "DBC762" : "E5A7D9", "CCB551" : "CC8AC5", "B2933E" : "B270B1" }  //pink
+]
+
+
 }

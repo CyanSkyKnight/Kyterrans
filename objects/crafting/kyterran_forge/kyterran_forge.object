@@ -3,7 +3,7 @@
   "colonyTags" : ["crafting", "kyterran"],
   "category" : "crafting",
   "rarity" : "Uncommon",
-  "description" : "Can be used to produce decorative armour.",
+  "description" : "Can be used to forge decorative armour, clothes, and building materials.",
   "shortdescription" : "^orange;Kyterran Forge^white;",
   "race" : "generic",
   "interactAction" : "OpenCraftingInterface",

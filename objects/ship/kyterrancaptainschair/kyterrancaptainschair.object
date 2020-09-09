@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "objectType" : "loungeable",
   "description" : "The Captain sits here to fly the ship.",
-  "shortdescription" : "kyterran Captain's Chair",
+  "shortdescription" : "Kyterran Pilot's Chair",
   "race" : "kyterran",
   "category" : "furniture",
   "apexDescription" : "Ahh... Sweet freedom. I can use the ship's navigator from this chair.",
@@ -16,7 +16,8 @@
   "humanDescription" : "The Captain's chair. The person sitting here decides where the ship goes",
   "hylotlDescription" : "Sitting on the Captain's chair allows me to fly this ship.",
   "novakidDescription" : "The Captain's chair. The guy who sits here decides where the ship goes",
-  "inventoryIcon" : "captainschairicon.png",
+  "kyterranDescription" : "The hard light interface allows me to pilot the ship with my claws.",
+  "inventoryIcon" : "kyterrancaptainschairicon.png",
   "orientations" : [
     {
       "image" : "kyterrancaptainschair.png:<color>",
@@ -42,7 +43,5 @@
   ],
   "interactAction" : "ScriptPane",
   "interactData" : "/interface/cockpit/cockpit.config",
-  "sitFlipDirection" : false,
-  "soundEffect" : "/sfx/objects/shipengine.ogg",
-  "soundEffectRadius" : 1000
+  "sitCoverImage" : "/objects/ship/kyterrancaptainschair/kyterrancaptainschairLight.png"
 }

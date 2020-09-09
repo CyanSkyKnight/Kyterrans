@@ -3,21 +3,24 @@
   "colonyTags" : ["kyterran"],
   "printable" : false,
   "rarity" : "Common",
-  "description" : "Trusty teleporter, what would we do without you?",
-  "shortdescription" : "Teleporter",
+  "description" : "A brass teleporter covered in strange glowing markings.",
+  "shortdescription" : "Kyterran Warp Pad",
   "race" : "kyterran",
   "apexDescription" : "The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light.",
   "avianDescription" : "The teleporter Teleporting feels like flying.",
   "floranDescription" : "Ship teleporter. Floran feel confusssed during teleport.",
   "glitchDescription" : "Smug. A teleporter. I am able to enter a sleep mode during the teleport process.",
-  "kyterranDescription" : "The teleporter Teleporting is such a rush.",
+  "humanDescription" : "The teleporter Teleporting is such a rush.",
   "hylotlDescription" : "A teleporter. Teleporting feels like diving into the ocean from a mountain top.",
   "novakidDescription" : "Ship's teleporter. Let's take her for a spin",
+  "kyterranDescription" : "This warp pad uses a form of ancient Thaumoth warp magic.",
   "category" : "light",
   "lightColor" : [99, 132, 153],
   "flickerDistance" : 0.2,
   "flickerStrength" : 0.05,
   "flickerTiming" : 4,
+  "soundEffect" : "/sfx/objects/shipengine.ogg",
+  "soundEffectRangeMultiplier" : 1.5,
   "particleEmitter" : {
     "emissionRate" : 3,
     "emissionVariance" : 0.5,
@@ -55,7 +58,7 @@
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ],
       "collision" : "solid",
-      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0], [-2, 9], [-1, 9], [0, 9], [1, 9] ]
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0]]
     }
   ]
 }
