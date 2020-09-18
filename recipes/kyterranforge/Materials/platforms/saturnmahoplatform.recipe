@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "saturnMaho", "count" : 1 }
-
-  ],
-  "output" : { "item" : "saturnmahoplatform", "count" : 10 },
-  "duration" : 0,
-  "groups"  : [ "kyterran_misc" ]
-}

@@ -210,7 +210,7 @@
     }
   },
   "altAbility" : {
-    "name" : "Flip Slash",
+    "name" : "High Jump",
     "type" : "kyterranflipslash",
     "scripts" : ["/items/active/weapons/melee/abilities/broadsword/flipslash/flipslash.lua"],
     "class" : "FlipSlash",
@@ -234,7 +234,7 @@
     "rotations" : 3,
     "rotationTime" : 0.2,
 
-    "jumpVelocity" : [15, 20],
+    "jumpVelocity" : [-50, 1],
     "jumpDuration" : 0.2,
 
     "stances" : {

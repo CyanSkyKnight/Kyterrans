@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranchestarmour",
-  "description" : "The strange light absorption properties of this armor seems to protect the wearer from light magic as well.",
+  "description" : "^#D8AB43;[Kyterran]^reset;The strange light absorption properties of this armor seems to protect the wearer from light magic as well.",
   "shortdescription" : "Kyta Obsidian Chestplate",
   "tooltipKind" : "kyterran_armor",
 

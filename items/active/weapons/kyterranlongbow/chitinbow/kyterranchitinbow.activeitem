@@ -1,7 +1,7 @@
 {
   "itemName" : "kyterranchitinbow",
   "price" : 640,
-  "inventoryIcon" : "kyterranchitinbow.png",
+  "inventoryIcon" : "kyterranchitinbowicon.png",
   "maxStack" : 1,
   "rarity" : "Common",
   "tooltipKind" : "bow",

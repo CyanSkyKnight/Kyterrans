@@ -22,6 +22,7 @@
     "tier1" : [
 // Empty Hands
       { "item" : "flagkyterran" },
+	  
 // Spinning Wheel
 	  { "item" : "kyterran_mannequin" },
 
@@ -47,6 +48,13 @@
       { "item" : "violiumshortsword" },
       { "item" : "violiumbroadsword" },
 
+	  { "item" : "kyterran_drillT1" },	
+	  { "item" : "kyterran_drillT2" },	
+	  { "item" : "kyterran_drillT3" },	
+	  { "item" : "kyterran_drillT4" },	
+	  { "item" : "kyterran_drillT5" },	
+	  { "item" : "kyterran_drillT6" },	
+	  
 	  { "item" : "kyterranMaceT1" },	  
 	  { "item" : "kyterranMaceT2" },
 	  { "item" : "kyterranMaceT3" },	 	  
@@ -58,11 +66,10 @@
 	  { "item" : "kyterran_ultraswordT2" },
 	  { "item" : "kyterran_ultraswordT3" },	 	  
 	  { "item" : "kyterran_ultraswordT4" },
-	  { "item" : "kyterran_ultraswordT5" },	 	  
+	  { "item" : "kyterran_ultraswordT5" },	
 	  { "item" : "kyterran_ultraswordT6" },
 
 // Armor
-
       { "item" : "kyterran_tier1head" },
       { "item" : "kyterran_tier1chest" },
       { "item" : "kyterran_tier1pants" },
@@ -106,188 +113,66 @@
       { "item" : "kyterran_tier6schest" },
       { "item" : "kyterran_tier6spants" },
 	  
-// Furniture Table
-      { "item" : "glitchstoragelocker" },
-      { "item" : "glitchshipdoor" },
-      { "item" : "glitchshiphatch" },
+//Clothes
+	  { "item" : "saturnnull" },
+	  { "item" : "saturnnullchest" },
+	  { "item" : "saturnnullpants" },
+	  
+	  { "item" : "kyterran_robeschest" },
+	  { "item" : "kyterran_robeslegs" },
 
-      { "item" : "saturnbookcase" },
-      { "item" : "saturncanvas" },
-      { "item" : "saturncrystalball" },
+	  { "item" : "kyterran_robesBchest" },
+	  { "item" : "kyterran_robesBlegs" },
+
+	  { "item" : "kyterran_Protectoratechest" },
+	  { "item" : "kyterran_Protectoratelegs" },
+	  
+//Furniture
       { "item" : "saturncrystallamp" },
       { "item" : "saturncrystallampOrange" },
 	  
 	  { "item" : "saturncirclesollamp" },
       { "item" : "saturncirclesollampblue" },
 	  
-      { "item" : "saturnebonychair" },
-      { "item" : "saturnebonytable" },
 	  
+      { "item" : "kyterranshiplocker" },
+      { "item" : "kyterranshipdoor" },
 	  
       { "item" : "glitchstoragelocker" },
       { "item" : "glitchshipdoor" },
       { "item" : "glitchshiphatch" },
 	  
-      { "item" : "saturnshiplocker" },
-	  
-      { "item" : "saturnshipdoor" },
-      { "item" : "saturnshiphatch" },
-	  
-      { "item" : "saturnshipdoor2" },
-      { "item" : "saturnshiphatch2" },
-	  
-	  { "item" : "saturnicebox2" },
 //Tiles
-	  { "item" : "saturnebony" },
 	  { "item" : "saturnbirch" },
-	  { "item" : "saturnOak" },
+	  { "item" : "saturnbrassblock" },
+	  { "item" : "sathomewalls1" },
+	  { "item" : "saturnbronzeblock" },
+	  { "item" : "saturncolorfulclaywalls" },
+	  { "item" : "saturncrystalblock2" },
+	  { "item" : "saturnebony" },
+	  { "item" : "saturnebonycore" },
 	  { "item" : "saturnMaho" },
-
+	  { "item" : "saturnOak" },
+	  { "item" : "saturnslopedbrasspanel" },
+	  { "item" : "saturnslopedBronzeglass" },
+	  { "item" : "saturnslopedcolorfulclaywalls" },
+	  { "item" : "saturnslopedglass" },
+	  { "item" : "saturnslopedhomewalls" },
+	  { "item" : "saturnslopedmetalpanel" },
 	  { "item" : "saturnslopedpanel" },
 	  { "item" : "saturnslopedpanelBirch" },
+	  { "item" : "saturnslopedpanelMaho" },
 	  { "item" : "saturnslopedpanelOak" },
-	  { "item" : "saturnslopedpanelMaho" },	  
-	  
-	  { "item" : "saturncolorfulclaywalls" },
-	  { "item" : "sathomewalls1" },
-	  { "item" : "saturnslopedhomewalls" },	
-	  { "item" : "saturnslopedglass" },
-	  { "item" : "saturnslopedmetalpanel" },	  
-	  { "item" : "saturnslopedbrasspanel" },
-	  { "item" : "saturnslopedstainedglass" },	 
-//Misc Armor	  
-      { "item" : "saturnSoldierhead" },
-
-//Clothes
-      { "item" : "saturngoggles" },
-      { "item" : "saturngoggles2" },
-      { "item" : "saturngoggles3" },
-	  
-	  { "item" : "saturnStarhatAnt" },
-	  { "item" : "saturnCirclet" },
-	  { "item" : "saturnCircletSilver" },
-	  { "item" : "saturnStarhat" },
-	  { "item" : "saturnglasses" },
-	  { "item" : "saturnglasses2" },
-	  { "item" : "saturnglasses3" },
-	  { "item" : "saturnglasses4" },
-
-//1.0.4 stuff
-	  { "item" : "saturnHeavyHood" },
-	  { "item" : "saturnHeavyScarfedHood" },
-	  { "item" : "saturnHeavyFluffhood" },
-	  { "item" : "saturnscarf" },
-	  { "item" : "saturnscarf2" },
-	  { "item" : "saturnnull" },
-	  { "item" : "saturnnullchest" },
-	  { "item" : "saturnnullpants" },
-	  { "item" : "saturnkyterranHelmhead" },
-//1.1 stuff
-
-	  { "item" : "saturnNocturneRobehead" },
-
-	  { "item" : "saturnNocturneRobeBhead" },
-
-	  { "item" : "saturnornaterobeshead" },
-
-	  { "item" : "saturnVoidMageOldchest" },
-	  
-	  { "item" : "saturnlightstaff2" },
-	  { "item" : "saturnfishingwand" },
-	  
-	  { "item" : "saturnFluffScarf" },
-	  { "item" : "saturnFluffScarf2" },
-	  
-//1.1.1
-	  {"item" : "saturnLumothMask"},
-	  {"item" : "saturnVoidMageOldpants"},
-	  {"item" : "saturnRena1chest"},
-	  {"item" : "saturnRobechest"},
-	  {"item" : "saturnnoblelegs"},
-	  {"item" : "saturnFakeProboscis"},
-	  
-//1.1.2
-	  {"item" : "saturntier4headnotevil"},
-
-	  {"item" : "saturnKypteranHelmhead"},
-	  {"item" : "saturnCircletObsidian"},
-	  
-	  {"item" : "saturnBuckledHat"},
-	  {"item" : "saturnShadowhat"},
-	  {"item" : "saturnStarhat2"},
-	  {"item" : "saturnTophat"},
-	  {"item" : "saturnTophat2"},
-	  {"item" : "saturnSunHat"},
-	  {"item" : "saturnWideHat"},
-	  {"item" : "saturnWideShadyHat"},
-	  {"item" : "saturngoggles4"},
-	  
-	  
-//1.2
-
-	  {"item" : "outfitfitter_saturn"},
-	  
-	  {"item" : "saturnArmorTransmog"},
-	 
-	  {"item" : "saturnTophat3"},
-	  {"item" : "saturnSorcererRobeshead"},
-	  {"item" : "saturnWideHatUnrelated"},
-	  
-	  {"item" : "saturnForestMageUnarmoredhead"},
-
-//1.3
-	  {"item" : "saturnianEbonydoor"},
-	  {"item" : "saturnCrown"},
-	  {"item" : "saturnscarf3" },
-	  {"item" : "saturnFurnitureSummoner" },
-	  {"item" : "saturnMagicCrystalTable"},
-	  
-//1.3.2
-	  {"item" : "saturnPartyhat"},
-	  
-	  {"item" : "saturnSolChead"},
-	  {"item" : "saturnSolmechanic"},
-	  {"item" : "saturnSolmechanic2"},
-	  
-	  { "item" : "saturnNocturneRobeChead" },
-
-	  
-	  { "item" : "saturnNocturneRobeDhead" },
-
-	  
-	  { "item" : "saturnNocturneRobeNLhead" },
-	  { "item" : "saturnNocturneRobeBNLhead" },
-	  { "item" : "saturnNocturneRobeCNLhead" },
-	  { "item" : "saturnNocturneRobeDNLhead" },
-	  
-//Dye
-      { "item" : "Satcoolgreydye" },
-      { "item" : "Satcyandye" },
-      { "item" : "Satearthdye" },
-      { "item" : "Satindigodye" },
-      { "item" : "Satlimedye" },
-      { "item" : "Satmaroondye" },
-      { "item" : "Satsanddye" },
-      { "item" : "Satwarmgreydye" },
-	  
-      { "item" : "Satsundye" },
-      { "item" : "Sattealdye" },	
-	  
-      { "item" : "saturnRegalDye" },
-      { "item" : "saturnLunaDye" },
-      { "item" : "saturnIODye" },
-      { "item" : "saturnLightPinkDye" },
-      { "item" : "saturnVenoDye" },
-      { "item" : "saturnSnowDye" },
-      { "item" : "saturnMidnightDye" },
-      { "item" : "saturnEvolightDye" },
-
-	 
-// Furniture Table
-
-      { "item" : "glitchstoragelocker" },
-      { "item" : "glitchshipdoor" },
-      { "item" : "glitchshiphatch" }
+	  { "item" : "saturnslopedstainedglass" },
+	  { "item" : "saturnslopedstainedglassBirch" },
+	  { "item" : "saturnslopedstainedglassMaho" },
+	  { "item" : "saturnslopedstainedglassOak" },
+	  { "item" : "saturnbirchplatform" },
+	  { "item" : "saturnbrassplatform" },
+	  { "item" : "saturnbronzeplatform" },
+	  { "item" : "saturnebonyplatform" },
+	  { "item" : "saturnmahoplatform" },
+	  { "item" : "saturnoakplatform" }
     ]
   },
   "altOptionAsFacialMask" : true,
