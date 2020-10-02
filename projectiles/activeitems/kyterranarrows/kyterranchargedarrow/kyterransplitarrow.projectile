@@ -1,0 +1,39 @@
+{
+  "projectileName" : "kyterransplitarrow",
+  "physics" : "arrownosticky",
+  "image" : "kyterransplitarrow.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "emitters" : [ "daggerblue" ],
+  "damageKindImage" : "icon.png",
+  "timeToLive" : 0.001,
+  "damagePoly" : [ [8, -0.2], [8.5, -0.2], [8.5, 0.2], [8, 0.2] ],
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "kyterranchargedarrow",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "kyterranchargedarrow",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "kyterranchargedarrow",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -5
+    }
+  ],
+  "power" : 20,
+  "knockback" : 20,
+  "knockbackDirectional" : true,
+  "damageKind" : "bow"
+}

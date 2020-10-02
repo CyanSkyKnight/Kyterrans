@@ -62,12 +62,12 @@
 	  { "item" : "kyterranMaceT5" },	 	  
 	  { "item" : "kyterranMaceT6" },
 	  
-	  { "item" : "kyterran_ultraswordT1" },	  
-	  { "item" : "kyterran_ultraswordT2" },
-	  { "item" : "kyterran_ultraswordT3" },	 	  
-	  { "item" : "kyterran_ultraswordT4" },
-	  { "item" : "kyterran_ultraswordT5" },	
-	  { "item" : "kyterran_ultraswordT6" },
+	  { "item" : "kyterranbroadswordT1" },	  
+	  { "item" : "kyterranbroadswordT2" },
+	  { "item" : "kyterranbroadswordT3" },	 	  
+	  { "item" : "kyterranbroadswordT4" },
+	  { "item" : "kyterranbroadswordT5" },	
+	  { "item" : "kyterranbroadswordT6" },
 
 // Armor
       { "item" : "kyterran_tier1head" },

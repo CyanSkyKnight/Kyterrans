@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "solariumstar", "count" : 6 },
-    { "item" : "refinedviolium", "count" : 6 }
-  ],
-  "output" : { "item" : "kyterran_ultraswordT6", "count" : 1 },
-  "groups" : [ "craftingseparator", "weapons", "all" ]
-}

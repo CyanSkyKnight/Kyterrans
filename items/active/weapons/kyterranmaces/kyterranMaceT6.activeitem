@@ -7,7 +7,7 @@
   "description" : "A glowing maul made from light.",
   "shortdescription" : "Evolight Maul",
   "tooltipKind" : "sword",
-  "category" : "saturnmace",
+  "category" : "axe",
   "twoHanded" : false,
   "itemTags" : ["weapon", "melee", "mace", "upgradeableWeapon"],
   "inventoryIcon" : "kyterranMaceT6.png",

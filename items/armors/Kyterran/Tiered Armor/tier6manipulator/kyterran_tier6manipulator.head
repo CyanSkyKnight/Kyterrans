@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "kyterranheadarmour",
-  "description" : "Your enemies will cower beneath the glare of this six-eyed helm.",
-  "shortdescription" : "(6m)Myrmerlin Hat",
+  "description" : "A battlemage's hood.",
+  "shortdescription" : "Myrmerlin Hat",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : "head.png",
