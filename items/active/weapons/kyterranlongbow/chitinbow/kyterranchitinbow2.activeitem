@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "tooltipKind" : "bow",
   "category" : "bow",
-  "description" : "A powerful bow. Charged shots fire ^#D8AB43;explosive arrows^reset; Alt charged shots fire ^#D8AB43;three arrows^reset;",
+  "description" : "A powerful bow. Charge to fire ^#D8AB43;Explosive Arrows^reset;.",
   "shortdescription" : "Heavy Chitin Bow",
   "twoHanded" : true,
   "itemTags" : ["weapon", "ranged", "bow"],

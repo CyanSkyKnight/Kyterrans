@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "tooltipKind" : "bow",
   "category" : "bow",
-  "description" : "A powerful bow made from surprisingly flexible chitin.",
+  "description" : "A bow made from surprisingly flexible chitin. Its alt ability fires ^#D8AB43;three arrows^reset;.",
   "shortdescription" : "Chitin Bow",
   "twoHanded" : true,
   "itemTags" : ["weapon", "ranged", "bow"],
@@ -42,12 +42,13 @@
     }
   },
 
-  "altAbilityType" : "zenshot",
+  "altAbilityType" : "bowshot",
   "altAbility" : {
     "fireOffset" : [1.75, 0.125],
     "projectileType" : "kyterranarrow",
+    "powerProjectileType" : "kyterransplitarrow",
     "projectileParameters" : {
-      "power" : 8.125
+      "power" : 6.5
     }
   },
 

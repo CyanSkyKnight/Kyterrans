@@ -4,72 +4,97 @@
     "path" : "/items/satkyterran",
     "value" : [
       [0, [
+	  
         {
-		
-		
          "head" : [
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			
-			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkythead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			
-			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkyt2head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			
-			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			{ "name" : "saturnAshkyt3head", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } },
-			
-			
-			{ "name" : "saturnscarf", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnscarf", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },			
-			{ "name" : "saturnscarf2", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnscarf2", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },			
-			
-			{ "name" : "saturnVoidmageOldhead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnNocturneRobeBhead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnNocturneRobehead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnVoidMagehead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnNecromagehead", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturntier4headnotevil", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+			{ "name" : "kyterran_tier1head" }
           ],
           "chest" : [
-			{ "name" : "saturnAshkytchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnAshkyt2chest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnAshkyt3chest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			
-			{ "name" : "saturnnullchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnnullchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnnullchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+			{ "name" : "kyterran_tier1chest" }
           ],
           "legs" : [
-			{ "name" : "saturnAshkytlegs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnAshkyt2legs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnAshkyt3legs", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnnullpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnnullpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } },
-			{ "name" : "saturnnullpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+			{ "name" : "kyterran_tier1pants" }
           ],
 		   "primary" : [
-			{ "name" : "saturnKyterraPick"},
-			{ "name" : "saturnStaffAxe"}
+			{ "name" : "kyterranbroadswordNPC", "data" : { "animationParts" : { "blade" : "kyterranbroadswordT1.png"} } }
+			],
+            "sheathedprimary" : [
+			{ "name" : "npcfirebow"}			
+            ]
+        },
+
+        {
+         "head" : [
+			{ "name" : "kyterran_tier2head" }
+          ],
+          "chest" : [
+			{ "name" : "kyterran_tier2chest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+          ],
+          "legs" : [
+			{ "name" : "kyterran_tier2pants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21] } }
+          ],
+		   "primary" : [
+			{ "name" : "kyterranbroadswordNPC", "data" : { "animationParts" : { "blade" : "kyterranbroadswordT2.png"} } }
+			],
+            "sheathedprimary" : [
+			{ "name" : "npcfirebow"}			
+            ]
+        },
+		
+        {
+         "head" : [
+			{ "name" : "kyterran_tier3head" }
+          ],
+          "chest" : [
+			{ "name" : "kyterran_tier3chest" }
+          ],
+          "legs" : [
+			{ "name" : "kyterran_tier3pants" }
+          ],
+		   "primary" : [
+			{ "name" : "kyterranbroadswordNPC", "data" : { "animationParts" : { "blade" : "kyterranbroadswordT3.png"} } }
+			],
+            "sheathedprimary" : [
+			{ "name" : "npcfirebow"}			
+            ]
+        },
+		
+        {
+         "head" : [
+			{ "name" : "kyterran_tier4head" }
+          ],
+          "chest" : [
+			{ "name" : "kyterran_tier4chest" }
+          ],
+          "legs" : [
+			{ "name" : "kyterran_tier4pants" }
+          ],
+		   "primary" : [
+			{ "name" : "kyterranbroadswordNPC", "data" : { "animationParts" : { "blade" : "kyterranbroadswordT4.png"} } }
+			],
+            "sheathedprimary" : [
+			{ "name" : "npcfirebow"}			
+            ]
+        },
+		
+        {
+         "head" : [
+			{ "name" : "kyterran_tier5shead" }
+          ],
+          "chest" : [
+			{ "name" : "kyterran_tier5schest" }
+          ],
+          "legs" : [
+			{ "name" : "kyterran_tier5spants" }
+          ],
+		   "primary" : [
+			{ "name" : "kyterranbroadswordNPC", "data" : { "animationParts" : { "blade" : "kyterranbroadswordT5.png"} } }
 			],
             "sheathedprimary" : [
 			{ "name" : "npcfirebow"}			
             ]
         }
+		
       ] ]
     ]
   }

@@ -13,23 +13,23 @@
     {
       "action" : "projectile",
       "type" : "kyterranchargedarrow",
-      "inheritDamageFactor" : 1,
-      "inheritSpeedFactor" : 1,
-      "angleAdjust" : 5
+      "inheritDamageFactor" : 0.334,
+      "inheritSpeedFactor" : 0.5,
+      "angleAdjust" : 2
     },
     {
       "action" : "projectile",
       "type" : "kyterranchargedarrow",
-      "inheritDamageFactor" : 1,
-      "inheritSpeedFactor" : 1,
+      "inheritDamageFactor" : 0.334,
+      "inheritSpeedFactor" : 0.5,
       "angleAdjust" : 0
     },
     {
       "action" : "projectile",
       "type" : "kyterranchargedarrow",
-      "inheritDamageFactor" : 1,
-      "inheritSpeedFactor" : 1,
-      "angleAdjust" : -5
+      "inheritDamageFactor" : 0.334,
+      "inheritSpeedFactor" : 0.5,
+      "angleAdjust" : -2
     }
   ],
   "power" : 20,
