@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranheadarmour",
-  "description" : "^#D8AB43;[Kyterran]^reset;This helmet is made from a strange type of obsidian. It seems to absorb nearby light.",
+  "description" : "^#D8AB43;[Kyterran]^reset; This helmet is made from a strange type of obsidian. It seems to absorb nearby light.",
   "shortdescription" : "Kyta Obsidian Helm",
   "tooltipKind" : "kyterran_armor",
 

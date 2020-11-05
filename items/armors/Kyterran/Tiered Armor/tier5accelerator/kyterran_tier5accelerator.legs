@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranlegarmour",
-  "description" : "These greaves bring a little flair to the battlefield.",
+  "description" : "^#D8AB43;[Kyterran]^reset; .",
   "shortdescription" : "Chitin Greaves",
   "tooltipKind" : "kyterran_armor",
 

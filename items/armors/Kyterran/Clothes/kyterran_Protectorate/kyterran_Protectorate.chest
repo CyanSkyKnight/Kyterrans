@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranchestwear",
-  "description" : "^#D8AB43;Kyterran only^white;, Chest slot.",
+  "description" : "^#D8AB43;[Kyterran]^reset; A Protectorate shirt tailored to fit a Kyterran.",
   "shortdescription" : "Kyterran Protect. Shirt",
   "tooltipKind" : "kyterran_armor",
   "maleFrames" : {

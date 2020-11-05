@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranchestarmour",
-  "description" : "^#D8AB43;[Kyterran: Lv5 Warrior Chest]^reset;",
-  "shortdescription" : "Aether Chestplate",
+  "description" : "^#D8AB43;[Kyterran]^reset; Armor made from a white metal mined from a floating island above Myrasyl.",
+  "shortdescription" : "Skyplate Chest",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : {

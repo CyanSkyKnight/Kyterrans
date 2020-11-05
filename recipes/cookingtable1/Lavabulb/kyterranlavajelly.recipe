@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kyterranlavabulb", "count" : 1 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterranlavajelly", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ]
+}

@@ -1,0 +1,33 @@
+{
+  "itemName" : "kyterrannovapepper",
+  "rarity" : "Uncommon",
+  "price" : 300,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "kyterrannovapepper.png",
+  "description" : "Lavabulb juice has chemically altered its spiciness. Potentially ^red;lethal^reset;, even to Kyterrans.",
+  "shortdescription" : "Supernova Pepper",
+  "effects" : [ [
+    {
+        "effect" : "nova",
+        "duration" : 150
+    },
+    {
+        "effect" : "ragefood",
+        "duration" : 150
+    },
+    {
+        "effect" : "kyterranburning",
+        "duration" : 10
+    }
+  ] ],
+  "foodValue" : 3.75,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

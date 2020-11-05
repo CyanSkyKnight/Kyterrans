@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "kyterranlavabulb", "count" : 1 },
+    { "item" : "liquidwater", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterranobsidibulb", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ]
+}

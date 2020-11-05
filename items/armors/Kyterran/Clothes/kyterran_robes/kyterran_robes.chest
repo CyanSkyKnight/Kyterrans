@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranchestwear",
-  "description" : "^#D8AB43;[Kyterran: Chest, Cosmetic]^reset;\n",
-  "shortdescription" : "Myrmeleon ^#0102;^reset;Sleeves",
+  "description" : "^#D8AB43;[Kyterran]^reset; ",
+  "shortdescription" : "Tephra Robes",
   "tooltipKind" : "kyterran_armor",
   "maleFrames" : {
     "body" : "chest.png",

@@ -3,7 +3,7 @@
   "price" : 640,
   "inventoryIcon" : "kyterranchitinbow2icon.png",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Legendary",
   "tooltipKind" : "bow",
   "category" : "bow",
   "description" : "A powerful bow. Charge to fire ^#D8AB43;Explosive Arrows^reset;.",

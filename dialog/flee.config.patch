@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/satkyterran",
+		"value": {
+			"default": [
+				"I require aid!",
+				"Help!",
+				"My claws are not enough!",
+				"I'm unarmed!",
+				"I need help!",
+				"I need a weapon!",
+				"What!?"
+			]
+		}
+	}
+]

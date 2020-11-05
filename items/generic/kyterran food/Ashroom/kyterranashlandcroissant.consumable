@@ -1,0 +1,28 @@
+{
+  "itemName" : "kyterranashlandcroissant",
+  "rarity" : "Common",
+  "price" : 225,
+  "category" : "preparedFood",
+  "inventoryIcon" : "kyterranashlandcroissant.png",
+  "description" : "A flaky croissant baked with Lavabulbs and Ashrooms",
+  "shortdescription" : "Ashlander's Croissant",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 180
+    },
+    {
+        "effect" : "runboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 65,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

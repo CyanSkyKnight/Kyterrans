@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "kyterranchestarmour",
-  "description" : "A rather bulky chestplate emblazened with the city Solalei's emblem.",
+  "description" : "^#D8AB43;[Kyterran]^reset; A rather bulky chestplate emblazened with Solalei's emblem.",
   "shortdescription" : "Royal Sun Guard Chestplate",
   "tooltipKind" : "kyterran_armor",
 

@@ -3,7 +3,7 @@
   "price" : 960,
   "level" : 4,
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "description" : "",
   "shortdescription" : "Ashland Greatsabre",
   "tooltipKind" : "sword",

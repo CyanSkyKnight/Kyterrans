@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranlegarmour",
-  "description" : "^#D8AB43;[Kyterran: Lv1 Legs]^reset; ",
+  "description" : "^#D8AB43;[Kyterran]^reset; A Kyterran's hard exoskeleton somewhat makes up for missing armor.",
   "shortdescription" : "Adventurer's Greaves",
   "tooltipKind" : "kyterran_armor",
 

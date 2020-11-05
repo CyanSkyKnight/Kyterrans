@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "kyterranlegarmour",
-  "description" : "",
-  "shortdescription" : "(6a)Skyhopper Greaves",
+  "description" : "^#D8AB43;[Kyterran]^reset; Greaves made from Skyhopper chitin. Wearing these makes you feel like you can leap over mountains.",
+  "shortdescription" : "Skyhopper Greaves",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : "pants.png",

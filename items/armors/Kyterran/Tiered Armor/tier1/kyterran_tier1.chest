@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranchestarmour",
-  "description" : "Tier 1 Chest",
+  "description" : "^#D8AB43;[Kyterran]^reset; Because this armor barely covers anything, the claws are sometimes used like bucklers.",
   "shortdescription" : "Adventurer's Chestplate",
   "tooltipKind" : "kyterran_armor",
 

@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranheadwear",
-  "description" : "^#D8AB43;[Kyterran: Head]^reset;\n",
-  "shortdescription" : "Myrmeleon ^#0101;^reset;Headband",
+  "description" : "^#D8AB43;[Kyterran]^reset; ",
+  "shortdescription" : "Helictite Headband",
   "tooltipKind" : "kyterran_armor",
 
 

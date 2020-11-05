@@ -3,7 +3,7 @@
   "price" : 640,
   "inventoryIcon" : "kyterranchitinbowicon.png",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Rare",
   "tooltipKind" : "bow",
   "category" : "bow",
   "description" : "A bow made from surprisingly flexible chitin. Its alt ability fires ^#D8AB43;three arrows^reset;.",

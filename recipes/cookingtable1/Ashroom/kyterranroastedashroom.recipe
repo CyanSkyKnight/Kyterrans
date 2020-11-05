@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "kyterranashroom", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterranroastedashroom", "count" : 1 },
+  "groups" : [ "campfire", "consumables", "all" ]
+}

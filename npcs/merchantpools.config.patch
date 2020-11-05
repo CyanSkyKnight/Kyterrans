@@ -1,0 +1,230 @@
+[
+{"op" : "add", "path" : "/kyterranfood", "value":[
+	[0, [
+	  { "item" : { "name" : "saturnmerchantchest" }},
+	  { "item" : { "name" : "saturnmerchantlegs" }},
+	  { "item" : { "name" : "saturnnoblelegs" }},
+	  
+	  { "item" : { "name" : "saturnNocturneRobechest" }},
+	  { "item" : { "name" : "saturnNocturneRobepants" }},
+
+	  { "item" : { "name" : "saturnNocturneRobeBchest" }},
+	  { "item" : { "name" : "saturnNocturneRobeBpants" }},
+
+	  { "item" : { "name" : "saturnornaterobeschest" }},
+	  { "item" : { "name" : "saturnornaterobespants" }},
+	  
+	  { "item" : { "name" : "saturnProtectoratechest" }},
+	  { "item" : { "name" : "saturnProtectoratepants" }},
+	  
+	  { "item" : { "name" : "saturnRobechest" }},
+	  { "item" : { "name" : "saturnRobepants" }},
+	  
+	  { "item" : { "name" : "saturnsmartchest" }},
+	  { "item" : { "name" : "saturnsmartpants" }},
+	  
+	  { "item" : { "name" : "saturntier4chestnotevil" }},
+
+	  { "item" : { "name" : "saturnForestMageUnarmoredchest" }},
+	  { "item" : { "name" : "saturnForestMageUnarmoredpants" }}
+	]]
+	]},
+	
+{"op" : "add", "path" : "/kyterranclothes", "value":[
+	[0, [
+	  { "item" : { "name" : "saturngoggles" }},
+	  { "item" : { "name" : "saturngoggles2" }},
+	  { "item" : { "name" : "saturngoggles3" }},
+	  { "item" : { "name" : "saturngoggles4" }},
+	  
+	  { "item" : { "name" : "saturncontactsBfly" }},
+	  { "item" : { "name" : "saturncontactsBfly2" }},
+	  { "item" : { "name" : "saturncontactsBfly3" }},  
+	  { "item" : { "name" : "saturncontactsXeye" }},
+	  
+	  { "item" : { "name" : "saturnglasses" }},
+	  { "item" : { "name" : "saturnglasses2" }},
+	  { "item" : { "name" : "saturnglasses3" }},
+	  { "item" : { "name" : "saturnglasses4" }},
+	  
+	  { "item" : { "name" : "saturnStarhatAnt" }},
+	  
+	  { "item" : { "name" : "saturnCirclet" }},
+	  { "item" : { "name" : "saturnCircletSilver" }},
+	  { "item" : { "name" : "saturnCircletObsidian" }},
+	  
+	  { "item" : { "name" : "saturnShadowhat" }},
+	  { "item" : { "name" : "saturnSorcererRobeshead" }},
+	  { "item" : { "name" : "saturnStarhat" }},
+	  { "item" : { "name" : "saturnStarhat2" }},
+	  { "item" : { "name" : "saturnTophat" }},
+	  { "item" : { "name" : "saturnTophat2" }},
+	  { "item" : { "name" : "saturnchef" }},
+	  { "item" : { "name" : "saturnWideHat" }},
+	  { "item" : { "name" : "saturnWideShadyHat" }},
+	  { "item" : { "name" : "saturnWidestHat" }},
+	  
+	  { "item" : { "name" : "saturnKypteranHelmhead" }},
+	  { "item" : { "name" : "saturnVoidMageRhead" }},
+
+	  { "item" : { "name" : "saturnNocturneRobehead" }},
+
+	  { "item" : { "name" : "saturnNocturneRobeBhead" }},
+
+	  { "item" : { "name" : "saturnornaterobeshead" }},
+
+	  { "item" : { "name" : "saturntier4headnotevil" }},
+	  { "item" : { "name" : "saturnHeavyFluffhood" }},
+	  { "item" : { "name" : "saturnHeavyHood" }},
+	  { "item" : { "name" : "saturnHeavyScarfedHood" }},
+	  { "item" : { "name" : "saturnscarf" }},
+	  { "item" : { "name" : "saturnscarf2" }},
+	  { "item" : { "name" : "saturnForestMageUnarmoredhead" }}
+	]]
+	]},
+	
+{"op" : "add", "path" : "/kyterranarmour", "value":[
+	[0, [
+	  { "item" : { "name" : "saturnNovMhead" }},
+	  { "item" : { "name" : "saturnNovMchest" }},
+	  { "item" : { "name" : "saturnNovMpants" }}
+	]],
+	[1.9, [
+	  { "item" : { "name" : "saturnNovMhead" }},
+	  { "item" : { "name" : "saturnNovMchest" }},
+	  { "item" : { "name" : "saturnNovMpants" }},
+	  { "item" : { "name" : "saturnSoldierhead" }},
+	  { "item" : { "name" : "saturnSoldierchest" }},
+	  { "item" : { "name" : "saturnSoldierpants" }},
+	  { "item" : { "name" : "saturnForestMagehead" }},
+	  { "item" : { "name" : "saturnForestMagechest" }},
+	  { "item" : { "name" : "saturnForestMagepants" }},
+	  { "item" : { "name" : "saturnobsidianarmorhead" }},
+	  { "item" : { "name" : "saturnobsidianarmorchest" }},
+	  { "item" : { "name" : "saturnobsidianarmorpants" }}
+	]],
+	[2.9, [
+	  
+	  { "item" : { "name" : "saturnSoldierhead" }},
+	  { "item" : { "name" : "saturnSoldierchest" }},
+	  { "item" : { "name" : "saturnSoldierpants" }},
+      { "item" : { "name" : "saturnForestMagehead" }},
+	  { "item" : { "name" : "saturnForestMagechest" }},
+	  { "item" : { "name" : "saturnForestMagepants" }},
+      { "item" : { "name" : "saturnVoidMagehead" }},
+	  { "item" : { "name" : "saturnVoidMagechest" }},
+	  { "item" : { "name" : "saturnVoidMagepants" }}
+	]],
+	[3.9, [
+	  
+	  { "item" : { "name" : "saturnSoldierhead" }},
+	  { "item" : { "name" : "saturnSoldierchest" }},
+	  { "item" : { "name" : "saturnSoldierpants" }},
+      { "item" : { "name" : "saturnForestMagehead" }},
+	  { "item" : { "name" : "saturnForestMagechest" }},
+	  { "item" : { "name" : "saturnForestMagepants" }},
+      { "item" : { "name" : "saturnVoidMagehead" }},
+	  { "item" : { "name" : "saturnVoidMagechest" }},
+	  { "item" : { "name" : "saturnVoidMagepants" }},
+      { "item" : { "name" : "saturnNecromagehead" }},
+      { "item" : { "name" : "saturnDemonhead" }},
+	  { "item" : { "name" : "saturnNecromagechest" }},
+	  { "item" : { "name" : "saturnNecromagepants" }}
+	]],
+	[4.9, [
+	
+	  
+	  { "item" : { "name" : "saturnNecromagehead" }},
+	  { "item" : { "name" : "saturnDemonhead" }},
+	  { "item" : { "name" : "saturnNecromagechest" }},
+	  { "item" : { "name" : "saturnNecromagepants" }},
+	  { "item" : { "name" : "saturntier5mhead" }},
+	  { "item" : { "name" : "saturntier5mchest" }},
+	  { "item" : { "name" : "saturntier5mpants" }},
+	  { "item" : { "name" : "saturnkni5head" }},
+	  { "item" : { "name" : "saturnkni5chest" }},
+	  { "item" : { "name" : "saturnkni5pants" }},
+	  { "item" : { "name" : "saturnArcherhead" }},
+	  { "item" : { "name" : "saturnArcherchest" }},
+	  { "item" : { "name" : "saturnArcherpants" }},
+	  { "item" : { "name" : "saturnScienceWizardhead" }},
+	  { "item" : { "name" : "saturnScienceWizardchest" }},
+	  { "item" : { "name" : "saturnScienceWizardpants" }},	  
+	  { "item" : { "name" : "saturnNovaWizardhead" }},
+	  { "item" : { "name" : "saturnNovaWizardchest" }},
+	  { "item" : { "name" : "saturnNovaWizardpants" }},	  
+	  { "item" : { "name" : "saturnSolhead" }},
+	  { "item" : { "name" : "saturnSolchest" }},
+	  { "item" : { "name" : "saturnSolpants" }},
+	  { "item" : { "name" : "saturnSolBhead" }},
+	  { "item" : { "name" : "saturnSolBchest" }},
+	  { "item" : { "name" : "saturnSolBpants" }},
+	  { "item" : { "name" : "saturnWasphead" }},
+	  { "item" : { "name" : "saturnWaspchest" }},
+	  { "item" : { "name" : "saturnWasppants" }},
+	  { "item" : { "name" : "saturnRocSlayerhead" }},
+	  { "item" : { "name" : "saturnRocSlayerchest" }},
+	  { "item" : { "name" : "saturnRocSlayerpants" }},
+	  { "item" : { "name" : "saturnCrystallinehead" }},
+	  { "item" : { "name" : "saturnCrystallinechest" }},
+	  { "item" : { "name" : "saturnCrystallinepants" }}
+	]]
+	]},
+	
+	
+
+{"op" : "add", "path" : "/kyterranweapons", "value":[
+	[0, [  
+	  { "item" : { "name" : "saturnMaceT1" }},
+	  { "item" : { "name" : "saturnscytheT1" }},
+	  { "item" : { "name" : "SaturnRapier" }},	  
+	  { "item" : { "name" : "saturnSTslopedmetalpanel" } },
+	  { "item" : { "name" : "saturnSTslopedbrasspanel" } },
+	  { "item" : { "name" : "SaturnBowT1" }}
+	]],
+	[1.9, [	  
+	  { "item" : { "name" : "saturnMaceT2" }},
+	  { "item" : { "name" : "saturnscytheT2" }},
+	  { "item" : { "name" : "SaturnRapier2" }},
+	  { "item" : { "name" : "SaturnBowT2" }},
+	  { "item" : { "name" : "saturnDesertdagger" }},
+	  { "item" : { "name" : "saturnDesertdagger2" }},
+	  
+	  { "item" : { "name" : "saturnhalberd" }}
+	]],
+	[2.9, [	  
+	  { "item" : { "name" : "saturnhalberd" }},
+	  { "item" : { "name" : "saturnscytheT3" }},
+	  { "item" : { "name" : "saturnMaceT3" }},	 	
+	  { "item" : { "name" : "SaturnRapier3" }},
+	  { "item" : { "name" : "SaturnBowT3" }},	 	
+	  
+	  { "item" : { "name" : "sattitaniumlance" }},
+	  { "item" : { "name" : "saturnlanceT3" }}
+	]],
+	[3.9, [
+	  { "item" : { "name" : "saturnhalberd" }},	 
+	  { "item" : { "name" : "saturnscytheT4" }},
+	  { "item" : { "name" : "saturnscytheT4b" }},
+	  { "item" : { "name" : "saturnMaceT4" }},
+	  { "item" : { "name" : "SaturnRapier4" }},
+	  { "item" : { "name" : "SaturnWaspLance" }},
+	  { "item" : { "name" : "SaturnBowT4" }}
+		]],
+	[4.9, [
+	  { "item" : { "name" : "saturnscytheT5" }},
+	  { "item" : { "name" : "saturnhalberd" }},
+	  { "item" : { "name" : "saturnMaceT5" }},	 	  
+	  { "item" : { "name" : "SaturnRapier5" }},	 	  
+	  { "item" : { "name" : "SaturnBowT5" }},	 	  
+	  { "item" : { "name" : "satfocusbeam" }},
+	  { "item" : { "name" : "SatGatlingCrystal" }},
+
+
+	  { "item" : { "name" : "Saturncrossbow" }},
+	  { "item" : { "name" : "SaturnLunacrossbow" }},
+
+	  { "item" : { "name" : "SaturnWaspUltraLance" }}
+	]]
+	]}
+]

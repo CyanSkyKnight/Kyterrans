@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranheadarmour",
-  "description" : "A stylish helm that protects your head and confuses your enemies.",
+  "description" : "^#D8AB43;[Kyterran]^reset; A helmet made from chitin of several large insects.",
   "shortdescription" : "Chitin Helm",
   "tooltipKind" : "kyterran_armor",
 

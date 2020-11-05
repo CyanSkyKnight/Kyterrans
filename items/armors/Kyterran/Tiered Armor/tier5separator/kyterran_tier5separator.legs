@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranlegarmour",
-  "description" : "^#D8AB43;[Kyterran: Lv5 Warrior Legs]^reset;",
-  "shortdescription" : "Aether Greaves",
+  "description" : "^#D8AB43;[Kyterran]^reset; Armor made from a white metal mined from a floating island above Myrasyl.",
+  "shortdescription" : "Skyplate Greaves",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : "pants.png",

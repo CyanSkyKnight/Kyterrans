@@ -5,8 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "kyterranheadarmour",
-//"description" : "^#D8AB43;[Kyterran: Lv4 Head]^reset; This helmet made from the exoskeleton of a giant treehopper. It's unwieldy shape inherits the treehopper's ability to not get eaten.",
-  "description" : "^#D8AB43;[Kyterran: Lv4 Head]^reset;.",
+  "description" : "^#D8AB43;[Kyterran]^reset; A traditional helmet of the Ash-kyts, Kyterrans that dwell below ashlands.",
   "shortdescription" : "Ash-kyt Helm",
   "tooltipKind" : "kyterran_armor",
 

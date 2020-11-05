@@ -1,0 +1,61 @@
+[
+	{
+		"op": "add",
+		"path": "/merchantStart/satkyterran",
+		"value": {
+			"default": [
+	      "Welcome to my shop",
+	      "See anything you like?",
+	      "What can I help you with?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/satkyterran",
+		"value": {
+			"default": [
+			"See you next time",
+			"Come again",
+			"Your pixels are always good here.",
+			"Pleasure doing business with you",
+			"Thanks for visiting.",
+			"Great to see you",
+			"Let's do business again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/satkyterran",
+		"value": {
+			"default": [
+			    "We can do business at my store. Please follow me.",
+	            "Come in, come in and see what I've got"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/satkyterran",
+		"value": {
+			"default": [
+	      "Welcome to my shop",
+	      "See anything you like?",
+	      "What can I help you with?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/satkyterran",
+		"value": {
+			"default" : [
+			"My shop is resplendent with wares. Come and see.",
+			"I would be most pleased to sell you what you need.",
+			"Please feel welcome to peruse my wares.",
+			"I have many goods available, I'm sure you'd find something to please you."
+			]
+		}
+	}
+]

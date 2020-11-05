@@ -1,0 +1,24 @@
+{
+  "itemName" : "kyterranashroomquiche",
+  "rarity" : "Common",
+  "price" : 170,
+  "category" : "preparedFood",
+  "inventoryIcon" : "kyterranashroomquiche.png",
+  "description" : "A cheesy quiche packed full of fresh mushrooms.",
+  "shortdescription" : "Ashroom Quiche",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 405
+    }
+  ] ],
+  "foodValue" : 45,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

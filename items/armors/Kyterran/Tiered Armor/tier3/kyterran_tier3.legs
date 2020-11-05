@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "kyterranlegarmour",
-  "description" : "",
+  "description" : "^#D8AB43;[Kyterran]^reset; Armor like this is known to produce a lot of static.",
   "shortdescription" : "Myrmidon Greaves",
   "tooltipKind" : "kyterran_armor",
 

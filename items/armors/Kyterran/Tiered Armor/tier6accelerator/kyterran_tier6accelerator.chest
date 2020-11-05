@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "kyterranchestarmour",
-  "description" : "Kyterrans sometimes ride giant treehoppers called skyhoppers to quickly traverse mountainous regions.",
-  "shortdescription" : "(6a)Skyhopper Chestplate",
+  "description" : "^#D8AB43;[Kyterran]^reset; Kyterrans sometimes ride giant treehoppers called skyhoppers to quickly traverse mountainous regions.",
+  "shortdescription" : "Skyhopper Chestplate",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : {

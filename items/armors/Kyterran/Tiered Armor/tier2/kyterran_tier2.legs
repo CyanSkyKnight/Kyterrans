@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranlegarmour",
-  "description" : "^#D8AB43;[Kyterran]^reset;Greaves made of obsidian collected from Mt. Kyterra.",
+  "description" : "^#D8AB43;[Kyterran]^reset; Greaves made of obsidian collected from Mt. Kyterra.",
   "shortdescription" : "Kyta Obsidian Greaves",
   "tooltipKind" : "kyterran_armor",
 

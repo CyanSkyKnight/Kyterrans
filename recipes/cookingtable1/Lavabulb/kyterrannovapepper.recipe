@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "kyterranlavabulb", "count" : 1 },
+    { "item" : "chili", "count" : 1 },
+    { "item" : "liquidlava", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterrannovapepper", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ]
+}

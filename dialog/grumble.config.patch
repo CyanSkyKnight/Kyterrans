@@ -1,0 +1,48 @@
+[
+	{
+		"op": "add",
+		"path": "/tagCriteria/satkyterran",
+		"value": {
+			"default": [
+				"Could you please return what you have taken?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/enclosedArea/satkyterran",
+		"value": {
+			"default": [
+				"This house lacks structural integrity.",
+				"This place needs repairs"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/otherDeed/satkyterran",
+		"value": {
+			"default": [
+				"I don't want a roommate!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/severe/satkyterran",
+		"value": {
+			"default": [
+				"If you do not fix this problem, I will need to go elsewhere."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/final/satkyterran",
+		"value": {
+			"default": [
+				"That's enough! I'm leaving!"
+			]
+		}
+	}
+]

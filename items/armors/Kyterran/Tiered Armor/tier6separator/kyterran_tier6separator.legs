@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "kyterranlegarmour",
-  "description" : "Black greaves worn by the Royal Sun Guard. ",
+  "description" : "^#D8AB43;[Kyterran]^reset; Black greaves worn by the Royal Sun Guard of Solalei. ",
   "shortdescription" : "Royal Sun Guard Greaves",
   "tooltipKind" : "kyterran_armor",
 

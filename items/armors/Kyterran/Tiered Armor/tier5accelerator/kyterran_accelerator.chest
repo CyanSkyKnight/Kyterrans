@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranchestarmour",
-  "description" : "Tier 5 Ranger Chest",
+  "description" : "^#D8AB43;[Kyterran]^reset; ",
   "shortdescription" : "Chitin Breastplate",
   "tooltipKind" : "kyterran_armor",
 

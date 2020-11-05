@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranchestwear",
-  "description" : "^#D8AB43;[Kyterran: Chest]^reset;\n",
-  "shortdescription" : "Myrmeleon ^#0102;^reset;Shirt",
+  "description" : "^#D8AB43;[Kyterran]^reset; ",
+  "shortdescription" : "Helictite Robes",
   "tooltipKind" : "kyterran_armor",
   "maleFrames" : {
     "body" : "chest.png",

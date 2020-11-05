@@ -1,0 +1,24 @@
+{
+  "itemName" : "kyterranroastedashroom",
+  "rarity" : "Common",
+  "price" : 30,
+  "category" : "preparedFood",
+  "inventoryIcon" : "kyterranroastedashroom.png",
+  "description" : "Roasting them really brings out all the flavour.",
+  "shortdescription" : "Roasted Ashrooms",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 90
+    }
+  ] ],
+  "foodValue" : 10,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 0.5,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

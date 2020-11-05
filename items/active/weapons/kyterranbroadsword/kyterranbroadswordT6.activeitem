@@ -3,7 +3,7 @@
   "price" : 960,
   "level" : 6,
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Legendary",
   "description" : "",
   "shortdescription" : "Evolight Greatsword",
   "tooltipKind" : "sword",
@@ -13,10 +13,11 @@
 
   "inventoryIcon" : "kyterranbroadswordT6.png",
 
-  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animation" : "kyterranbroadswordT6.animation",
   "animationParts" : {
-    "handle" : "",
-    "blade" : "kyterranbroadswordT6.png"
+    "handle" : "kyterranbroadswordT6handle.png",
+    "handleFullbright" : "kyterranbroadswordT6FB.png",
+    "blade" : "kyterranbroadswordT6blade.png"
   },
   "animationCustom" : {
     "particleEmitters" : {
@@ -26,9 +27,8 @@
         "emissionRate" : 30,
         "offsetRegion" : [-0.75, 0.0, 0.75, 5.5],
         "particles" : [
-          { "particle" : "fireswoosh1"},
-          { "particle" : "fireswoosh2"},
-          { "particle" : "fireswoosh3"}
+          { "particle" : "kyterranenergyblade"},
+          { "particle" : "kyterranenergyblade2"}
         ]
       }
     },
@@ -41,7 +41,9 @@
     }
   },
 
-  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "scripts" : ["/items/active/weapons/melee/energymeleeweapon.lua"],
+
+  "activeTime" : 10.0,
 
   "elementalType" : "physical",
 

@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranlegarmour",
-  "description" : "These light ferozium greaves enable agility in battle.",
-  "shortdescription" : "Lancer's Greaves",
+  "description" : "^#D8AB43;[Kyterran]^reset; Kyterran mages are rare, but magic continues to gain popularity as Kyterrans and Saturnians work together.",
+  "shortdescription" : "Lineata Skirt",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : "pants.png",

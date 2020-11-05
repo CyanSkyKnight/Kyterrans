@@ -1,0 +1,25 @@
+{
+  "itemName" : "kyterranashroom",
+  "rarity" : "Common",
+  "price" : 80,
+  "category" : "preparedFood",
+  "inventoryIcon" : "kyterranashroom.png",
+  "description" : "A mushroom that grows on cave ceilings.",
+  "shortdescription" : "Ashroom",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 3.75,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "kyterranashroombread", "kyterranroastedashroom" ]
+}

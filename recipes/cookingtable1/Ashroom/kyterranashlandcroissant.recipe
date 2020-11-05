@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "kyterranashroom", "count" : 1 },
+    { "item" : "kyterranlavabulb", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterranashlandcroissant", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ]
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "kyterranburning",
+  
+  "effectConfig" : {},
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "kyterranburning.lua"
+  ],
+
+  "animationConfig" : "kyterranburning.animation",
+
+  "label" : "Supernova Pepper",
+  "icon" : "/interface/statuses/fire.png"
+}

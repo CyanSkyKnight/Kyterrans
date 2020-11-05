@@ -1,0 +1,57 @@
+{
+  "objectName" : "kyterranashroomseed",
+  "colonyTags" : ["nature", "kyterran"],
+  "rarity" : "Common",
+  "category" : "seed",
+  "description" : "A mushroom native to ash-covered lands. It grows on cave ceilings.",
+  "shortdescription" : "Ashroom Spores",
+  "objectType" : "farmable",
+  "printable" : false,
+
+  "apexDescription" : "A mushroom with stark contrasting colors like this is probably poisonous.",
+  "avianDescription" : "A tiny toadstool.",
+  "floranDescription" : "Floran hatsss.",
+  "glitchDescription" : "Relieved. This fungus does not appear to be corrosive to Glitch.",
+  "humanDescription" : "A mushroom. Perfect for an omelette or quiche.",
+  "hylotlDescription" : "A small, edible mushroom.",
+  "novakidDescription" : "A tiny mushroom.",
+
+  "inventoryIcon" : "kyterranashroomicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "kyterranashroom.png:default.2.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "kyterranashroom.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 1],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : false,
+      "anchors" : [ "top" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1000, 1000]
+    },
+    {
+      "duration" : [5000, 5000]
+    },
+    {
+      "alts" : 5,
+      "harvestPool" : "kyterranashroomHarvest",
+	  "resetToStage" : 1
+    }
+  ],
+
+  "consumeSoilMoisture" : false,
+  "maxImmersion" : 0.25
+}

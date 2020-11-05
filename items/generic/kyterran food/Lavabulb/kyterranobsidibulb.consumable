@@ -1,0 +1,26 @@
+{
+  "itemName" : "kyterranobsidibulb",
+  "rarity" : "Common",
+  "price" : 30,
+  "category" : "food",
+  "eventCategory" : "eventCrop",
+  "inventoryIcon" : "kyterranobsidibulb.png",
+  "description" : "A lavabulb that has cooled off. It's very bitter.",
+  "shortdescription" : "Obsidibulb",
+  "effects" : [ [
+    {
+        "effect" : "thorns",
+        "duration" : 100
+    }
+  ] ],
+  "foodValue" : 1,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 20,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "kyterraneatglass" ]
+}

@@ -1,0 +1,24 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/satkyterran",
+		"value": {
+			"default": [
+				"Hello.",
+				"Huh?",
+				"Yes?",
+				"What is it?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/satkyterran",
+		"value": {
+			"default": [
+				"Thanks friend!",
+				"Please take this!"
+			]
+		}
+	}
+]

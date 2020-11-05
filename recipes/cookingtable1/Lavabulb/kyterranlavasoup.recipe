@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "kyterranlavabulb", "count" : 1 },
+    { "item" : "potato", "count" : 1 },
+    { "item" : "milk", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterranlavasoup", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ]
+}

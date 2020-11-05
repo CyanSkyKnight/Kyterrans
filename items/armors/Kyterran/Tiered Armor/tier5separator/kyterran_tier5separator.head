@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "kyterranheadarmour",
-  "description" : "^#D8AB43;[Kyterran: Lv5 Warrior Head]^reset;",
-  "shortdescription" : "Aether Helm",
+  "description" : "^#D8AB43;[Kyterran]^reset; Armor made from a white metal mined from a floating island above Myrasyl.",
+  "shortdescription" : "Skyplate Helm",
   "tooltipKind" : "kyterran_armor",
 
   "maleFrames" : "head.png",

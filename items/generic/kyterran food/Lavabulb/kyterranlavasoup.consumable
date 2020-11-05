@@ -1,0 +1,26 @@
+{
+  "itemName" : "kyterranlavasoup",
+  "rarity" : "Common",
+  "price" : 225,
+  "category" : "preparedFood",
+  "inventoryIcon" : "kyterranlavasoup.png",
+  "description" : "A rich, mildly spicy soup made of Lavabulbs.",
+  "shortdescription" : "Lavabulb Soup",
+  "effects" : [ [
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 360
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "kyterranmoltenchocolatecake" ]
+}

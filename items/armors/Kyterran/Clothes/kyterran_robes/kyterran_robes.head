@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranheadwear",
-  "description" : "^#D8AB43;[Kyterran: Head, Cosmetic]^reset;\n",
-  "shortdescription" : "Myrmeleon ^#0101;^reset;Hood",
+  "description" : "^#D8AB43;[Kyterran]^reset; ",
+  "shortdescription" : "Tephra Hood",
   "tooltipKind" : "kyterran_armor",
 
 

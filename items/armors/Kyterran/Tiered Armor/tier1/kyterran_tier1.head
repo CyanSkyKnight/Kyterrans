@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "kyterranheadarmour",
-  "description" : "^#D8AB43;[Kyterran: Lv1 Head]^reset; ",
+  "description" : "^#D8AB43;[Kyterran]^reset; This cheap iron armor is usually worn by novice explorers and mercenaries.",
   "shortdescription" : "Adventurer's Helm",
   "tooltipKind" : "kyterran_armor",
 
