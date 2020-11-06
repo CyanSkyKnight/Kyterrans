@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "silk", "count" : 1 }
+    { "item" : "fabric", "count" : 20 }
   ],
   "duration" : 0.005,
   "output" : { "item" : "saturnbanner13", "count" : 1 },

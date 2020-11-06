@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "liquidwater", "count" : 5 },
+    { "item" : "liquidlava", "count" : 5 } 
+
+  ],
+  "output" : { "item" : "obsidian", "count" : 10 },
+  "duration" : 0,
+  "groups"  : [ "craftingfurniture", "saturnmaterials", "materials", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "obsidian", "count" : 20 },
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "duration" : 0.005,
+  "output" : { "item" : "kyterranbed", "count" : 1 },
+  "groups" : [ "saturnfurniture", "craftingfurniture", "beds", "all" ]
+}

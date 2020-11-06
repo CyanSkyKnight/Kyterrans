@@ -1,28 +1,35 @@
 {
-  "projectileName" : "kyterrancrystalstaffprojectile",
+  "projectileName" : "kyterranlightcrystalstaffprojectile",
   "physics" : "default",
   "timeToLive" : 3,
-  "image" : "kyterrancrystalstaffprojectile.png",
+  "image" : "kyterranlightcrystalstaffprojectile.png",
   "animationCycle" : 0.2,
   "lightColor" : [30, 30, 80],
   "frameNumber" : 1,
   "speed" : 0,
   "power" : 30,
-  "damageKind" : "electricspear",
+  "damageKind" : "firespear",
   "damagePoly" : [ [-6, 0], [-4, -4], [0, -6], [4, -4], [6, 0], [4, 4], [0, 6], [-4, 4] ],
 
   "fullbright" : true,
   "actionOnReap" : [
     {
-      "action" : "sound",
-      "options" : [ "/sfx/projectiles/ice_break1.ogg", "/sfx/projectiles/ice_break4.ogg", "/sfx/projectiles/ice_break5.ogg", "/sfx/projectiles/ice_break6.ogg", "/sfx/projectiles/ice_break9.ogg", "/sfx/projectiles/ice_break10.ogg" ]
+      "action" : "config",
+      "file" : "/projectiles/explosions/elementimpact/fireimpactmute.config"
     },
     {
-      "action" : "config",
-      "file" : "/projectiles/explosions/elementimpact/iceimpactmute.config"
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/ice_break1.ogg", "/sfx/projectiles/ice_break4.ogg", "/sfx/projectiles/ice_break5.ogg", "/sfx/projectiles/ice_break6.ogg", "/sfx/projectiles/ice_break9.ogg", "/sfx/projectiles/ice_break10.ogg" ]
     }
   ],
-
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/gun/impact_fire.ogg"
+      ]
+    }
+  ],
   "bounces" : 0,
 
   "scripts" : [ "/projectiles/activeitems/staff/plasmablade/plasmablade.lua" ],

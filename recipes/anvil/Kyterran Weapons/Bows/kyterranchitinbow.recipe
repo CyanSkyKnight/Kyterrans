@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 3 },
+	{ "item" : "goldbar", "count" : 3 }
+  ],
+  "output" : { "item" : "kyterranchitinbow", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "saturnenchantedranged", "weapons", "bow", "armory3", "all" ]
+}

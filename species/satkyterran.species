@@ -138,6 +138,7 @@
       { "item" : "saturnposter2" },
 	  
 	  
+      { "item" : "kyterranbed" },
       { "item" : "kyterranchair" },
       { "item" : "kyterranchest" },
       { "item" : "kyterrancrate" },
@@ -157,6 +158,8 @@
       { "item" : "glitchshiphatch" },
 	  
 //Tiles
+	  { "item" : "obsidian" },
+	  
 	  { "item" : "saturnbirch" },
 	  { "item" : "saturnbrassblock" },
 	  { "item" : "sathomewalls1" },

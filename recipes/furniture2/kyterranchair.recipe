@@ -1,6 +1,7 @@
 {
   "input" : [
-    { "item" : "saturnebony", "count" : 10 }
+    { "item" : "obsidian", "count" : 10 },
+	{ "item" : "saturnslopedbrasspanel", "count" : 5 }
   ],
   "duration" : 0.005,
   "output" : { "item" : "kyterranchair", "count" : 1 },
