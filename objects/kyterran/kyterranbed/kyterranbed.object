@@ -1,0 +1,49 @@
+{
+  "objectName" : "kyterranbed",
+  "colonyTags" : ["kyterran", "saturnsilk", "bed"],
+  "rarity" : "Common",
+  "description" : "A heavy obsidian bed.",
+  "shortdescription" : "Kyterran Bed",
+  "race" : "kyterran",
+  "category" : "furniture",
+  "price" : 45,
+
+  "apexDescription" : "A simple wooden bed, nice and comfortable.",
+  "avianDescription" : "Could the silk on the headboard be like a dreamcatcher?",
+  "floranDescription" : "Floran rarely ssleep in ssuch shiny bed.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
+  "humanDescription" : "A luxurious, silk bed.",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "A decent place to get some shut-eye.",
+  "saturnDescription" : "A very heavy obsidian bed that diffuses the light nearby.",
+  "saturn2Description" : "A very heavy obsidian bed that diffuses the light nearby.",
+  "satkyterranDescription" : "The frame of this bed is made from sturdy obsidian and brass.",
+  "saturnmothman" : "This bed is made from a glass as black as night.",
+
+  "inventoryIcon" : "kyterranbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "kyterranbed.png",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/kyterran/kyterranbed/kyterranbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

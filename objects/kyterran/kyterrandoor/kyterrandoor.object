@@ -1,0 +1,58 @@
+{
+  "objectName" : "kyterrandoor",
+  "colonyTags" : ["door","kyterran"],
+  "rarity" : "Common",
+  "category" : "door",
+  "price" : 135,
+  "description" : "A super-strong obsidian door.",
+  "shortdescription" : "Kyterran Door",
+  "race" : "kyterran",
+
+  "apexDescription" : "This door is very secure.",
+  "avianDescription" : "A very sturdy door.",
+  "floranDescription" : "Floran hide behind door. Jump out. Ssstab!",
+  "glitchDescription" : "Approving. A useful door.",
+  "humanDescription" : "A sturdy obsidian door.",
+  "hylotlDescription" : "A robust obsidian door.",
+  "novakidDescription" : "This is one cool door.",
+  "saturnDescription" : "This door uses levitation to make it easier to close.",
+  "saturn2Description" : "This door uses levitation to make it easier to close.",
+  "satkyterranDescription" : "This door uses levitation to make it easier to close.",
+
+  "inventoryIcon" : "kyterrandooricon.png",
+   
+  "orientations" : [
+    {
+      "dualImage" : "kyterrandoor.png:default",
+      "imagePosition" : [-16, 0],
+      "renderLayer" : "Object+5",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/stonedoor_open_fast.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/stonedoor_close_fast.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "kyterrandoor.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "inputNodes" : [ [0, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

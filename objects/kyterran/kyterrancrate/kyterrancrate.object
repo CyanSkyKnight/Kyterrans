@@ -1,0 +1,62 @@
+{
+  "objectName" : "kyterrancrate",
+  "colonyTags" : ["kyterran","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "price" : 15,
+  "description" : "A mysterious obsidian crate.",
+  "shortdescription" : "Kyterran Crate",
+  "race" : "kyterran",
+  "health" : 1.5,
+
+  "apexDescription" : "This crate looks like it is made from obsidian.",
+  "avianDescription" : "A storage box.",
+  "floranDescription" : "Shiny box!",
+  "glitchDescription" : "Curious. Is there anything inside?",
+  "humanDescription" : "A brass crate. It's open.",
+  "hylotlDescription" : "An open crate.",
+  "novakidDescription" : "A regular brass crate.",
+  "saturnDescription" : "The obsidian this crate is made from is to opaque to see through.",
+  "saturn2Description" : "The obsidian this crate is made from is to opaque to see through.",
+  "satkyterranDescription" : "This box was forged from obsidian and brass.",
+  "saturnmothman" : "This box must get really hot in the sun.",
+
+  "inventoryIcon" : "kyterrancrateicon.png",
+  "orientations" : [
+    {
+      "image" : "kyterrancrate.png:default",
+      "direction" : "left",
+      "flipImages" : true,
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "kyterrancrate.png:default",
+      "direction" : "right",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

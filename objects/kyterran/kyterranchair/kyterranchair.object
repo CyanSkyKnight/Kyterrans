@@ -1,0 +1,42 @@
+{
+  "objectName" : "kyterranchair",
+  "colonyTags" : ["kyterran", "misc"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A heavy obsidian chair.",
+  "shortdescription" : "Kyterran Chair",
+  "race" : "kyterran",
+  "category" : "furniture",
+  "price" : 10,
+
+  "apexDescription" : "A chair made from volcanic glass? How odd.",
+  "avianDescription" : "The pillows make this chair comfortable.",
+  "floranDescription" : "Bug chair. Pointy legs.",
+  "glitchDescription" : "Wistful. Our castle back home had similar chairs.",
+  "humanDescription" : "This chair looks a bit like a throne.",
+  "hylotlDescription" : "Not too soft, not too firm. A good spot for meditation.",
+  "novakidDescription" : "This chair's a bit fancy for my likin'.",
+  
+  "saturnDescription" : "This chair was expertly crafted from obsidian.",
+  "saturn2Description" : "This chair was expertly crafted from obsidian.",
+  "satkyterranDescription" : "This chair was expertly crafted from obsidian.",
+  "saturnmothman" : "This chair was expertly crafted from obsidian.",
+
+  "inventoryIcon" : "kyterranchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "kyterranchair.png",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}

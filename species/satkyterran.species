@@ -8,8 +8,6 @@
 
   "humanoidConfig" : "/species/kyta_antlionoid.config",
   
-  
-  
   "nameGen" : [ "/species/kyterrannamegenmale.config:names", "/species/kyterrannamegenfemale.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/saturnkyta_hurtsfx1.ogg", "/sfx/humanoid/saturnkyta_hurtsfx2.ogg" ],
   "gruntNoises" : [ [ "/sfx/humanoid/saturn_sfx3.ogg", "/sfx/humanoid/saturn_sfx2.ogg" ], [ "/sfx/humanoid/saturn_sfx1.ogg", "/sfx/humanoid/saturn_sfx1b.ogg"] ],
@@ -130,6 +128,22 @@
 //Furniture
       { "item" : "saturncrystallamp" },
       { "item" : "saturncrystallampOrange" },
+	  
+      { "item" : "saturnbanner1" },
+      { "item" : "saturnbanner11" },
+      { "item" : "saturnbanner13" },
+      { "item" : "saturnbanner19" },
+      { "item" : "saturnbanner20" },
+      { "item" : "saturnpainting4" },
+      { "item" : "saturnposter2" },
+	  
+	  
+      { "item" : "kyterranchair" },
+      { "item" : "kyterranchest" },
+      { "item" : "kyterrancrate" },
+      { "item" : "kyterrandesk" },
+      { "item" : "kyterrandoor" },
+      { "item" : "kyterrantable" },
 	  
 	  { "item" : "saturncirclesollamp" },
       { "item" : "saturncirclesollampblue" },
