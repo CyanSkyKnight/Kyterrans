@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 3 },
+	{ "item" : "goldbar", "count" : 3 },
+    { "item" : "diamond", "count" : 1 }
+  ],
+  "output" : { "item" : "kyterranstaffT5", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "saturnstaff2", "staff", "armory3",  "all" ]
+}

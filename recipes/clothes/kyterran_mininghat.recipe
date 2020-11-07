@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "flashlight", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "kyterran_mininghat",
+  "count" : 1
+  },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

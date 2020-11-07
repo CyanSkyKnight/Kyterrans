@@ -66,6 +66,12 @@
 	  { "item" : "kyterranbroadswordT4" },
 	  { "item" : "kyterranbroadswordT5" },	
 	  { "item" : "kyterranbroadswordT6" },
+	  
+	  { "item" : "kyterranchitinbow" },
+	  { "item" : "kyterranchitinbow2" },
+	  
+	  { "item" : "kyterranstaffT5" },
+	  { "item" : "kyterranstaffT6" },
 
 // Armor
       { "item" : "kyterran_tier1head" },
@@ -116,12 +122,24 @@
 	  { "item" : "saturnnullchest" },
 	  { "item" : "saturnnullpants" },
 	  
+	  { "item" : "kyterran_robeshead" },
 	  { "item" : "kyterran_robeschest" },
 	  { "item" : "kyterran_robeslegs" },
 
+	  { "item" : "kyterran_robesBhead" },
 	  { "item" : "kyterran_robesBchest" },
 	  { "item" : "kyterran_robesBlegs" },
+	  
+	  { "item" : "kyterran_robesPlainhead" },
+	  { "item" : "kyterran_robesPlainchest" },
+	  { "item" : "kyterran_robesPlainlegs" },
+	  
+	  { "item" : "kyterran_skirt" },
 
+	  { "item" : "kyterran_mininghat" },
+	  { "item" : "kyterran_mininghatB" },
+	  { "item" : "kyterran_Bandana" },
+	  
 	  { "item" : "kyterran_Protectoratechest" },
 	  { "item" : "kyterran_Protectoratelegs" },
 	  
