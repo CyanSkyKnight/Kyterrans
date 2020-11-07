@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; Kyterran mages are rare, but magic continues to gain popularity as Kyterrans and Saturnians work together.",
   "shortdescription" : "Myrmerlin Hood",
   "tooltipKind" : "kyterran_armor",

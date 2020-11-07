@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; This helmet is made from the exoskeleton of a giant treehopper. It's unwieldy shape inherits the treehopper's ability to not get eaten.",
   "shortdescription" : "Skyhopper Helm",
   "tooltipKind" : "kyterran_armor",

@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Rare",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; A helmet made from chitin of several large insects.",
   "shortdescription" : "Chitin Helm",
   "tooltipKind" : "kyterran_armor",

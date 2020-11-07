@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Common",
-  "category" : "kyterranoutfit",
+  "category" : "legwear",
   "description" : "^#D8AB43;[Kyterran]^reset; Simple robes without much to make them stand out.",
   "shortdescription" : "Talus Long Skirt",
   "tooltipKind" : "kyterran_armor",

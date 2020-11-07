@@ -44,7 +44,23 @@
 			{ "name" : "kyterran_robesPlainchest", "parameters" : { "colorIndex" : 4 } }
 			],
 			
-			
+			"back" : [
+			{ "name" : "hikerback", "parameters" : { "colorIndex" : 1 } },
+			{ "name" : "hikerback", "parameters" : { "colorIndex" : 2 } },
+			{ "name" : "hikerback", "parameters" : { "colorIndex" : 3 } },
+			{ "name" : "hikerback", "parameters" : { "colorIndex" : 8 } },
+			{ "name" : "hikerback", "parameters" : { "colorIndex" : 4 } },
+			{ "name" : "survivalgearback", "parameters" : { "colorIndex" : 1 } },
+			{ "name" : "survivalgearback", "parameters" : { "colorIndex" : 2 } },
+			{ "name" : "survivalgearback", "parameters" : { "colorIndex" : 3 } },
+			{ "name" : "survivalgearback", "parameters" : { "colorIndex" : 8 } },
+			{ "name" : "survivalgearback", "parameters" : { "colorIndex" : 4 } },
+			{ "name" : "mrclausback", "parameters" : { "colorIndex" : 0 } },
+			{ "name" : "wizardback", "parameters" : { "colorIndex" : 2 } },
+			{ "name" : "wizardback", "parameters" : { "colorIndex" : 3 } },
+			{ "name" : "wizardback", "parameters" : { "colorIndex" : 8 } },
+			{ "name" : "wizardback", "parameters" : { "colorIndex" : 4 } }
+			],
 			
 			"legs" : [
 			{ "name" : "kyterran_robeslegs", "parameters" : { "colorIndex" : 1 } },

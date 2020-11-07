@@ -1,19 +1,19 @@
 {
   "name": "merchant_kyterran",
-  "priority": 4,
+  "priority": 6,
 
   "colonyTagCriteria": {
     "light": 1,
     "door": 1,
-    "kyterran": 8,
-    "storage": 8,
-    "commerce": 8
+    "kyterran": 6,
+    "storage": 6,
+    "commerce": 6
   },
 
   "tenants": [
     {
       "spawn": "npc",
-      "species": "kyterran",
+      "species": "satkyterran",
       "type": "merchanttenant",
       "overrides": {
        }

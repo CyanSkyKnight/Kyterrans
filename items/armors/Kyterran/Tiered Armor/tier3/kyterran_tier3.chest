@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "category" : "kyterranchestarmour",
+  "category" : "chestarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; Strange runed armor derived from the same void magic that powers Saturnian warp tech.",
   "shortdescription" : "Myrmidon Chestplate",
   "tooltipKind" : "kyterran_armor",

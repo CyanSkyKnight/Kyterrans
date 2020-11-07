@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Common",
-  "category" : "kyterranheadwear",
+  "category" : "headwear",
   "description" : "^#D8AB43;[Kyterran]^reset; A favorite of rescue teams.",
   "shortdescription" : "Bandana Scarf",
   "tooltipKind" : "kyterran_armor",

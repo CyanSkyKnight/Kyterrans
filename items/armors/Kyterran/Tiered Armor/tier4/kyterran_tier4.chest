@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "category" : "kyterranchestarmour",
+  "category" : "chestarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; A red scarf is worn with the armor so it can cover the wearer's mouth during ashstorms.",
   "shortdescription" : "Ash-kyt Chestplate",
   "tooltipKind" : "kyterran_armor",

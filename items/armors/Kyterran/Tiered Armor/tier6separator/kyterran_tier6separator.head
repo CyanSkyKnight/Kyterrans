@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; An old styled helmet that is now heavily associated with the Saturnians of Solalei",
   "shortdescription" : "Royal Sun Guard Helm",
   "tooltipKind" : "kyterran_armor",

@@ -5,5 +5,5 @@
   ],
   "duration" : 0.005,
   "output" : { "item" : "kyterrandesk", "count" : 1 },
-  "groups" : [ "saturnfurniture", "craftingfurniture", "all" ]
+  "groups" : [ "saturnfurniture", "craftingfurniture", "storage", "all" ]
 }

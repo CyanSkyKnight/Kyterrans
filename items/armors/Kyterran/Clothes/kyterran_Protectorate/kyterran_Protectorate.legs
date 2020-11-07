@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Rare",
-  "category" : "kyterranlegclothes",
+  "category" : "legwear",
   "description" : "^#D8AB43;[Kyterran]^reset; A Protectorate skirt and shoes tailored to fit a Kyterran.",
   "shortdescription" : "Kyterran Protect. Skirt",
   "tooltipKind" : "kyterran_armor",

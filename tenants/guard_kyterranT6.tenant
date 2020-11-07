@@ -13,7 +13,7 @@
   "tenants": [
     {
       "spawn": "npc",
-      "species": "kyterran",
+      "species": "satkyterran",
       "level": 6,
       "type": "friendlyguardtenant",
       "overrides": {

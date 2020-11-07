@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "kyterranlegarmour",
+  "category" : "legarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; Kyterran mages are rare, but magic continues to gain popularity as Kyterrans and Saturnians work together.",
   "shortdescription" : "Myrmerlin Robe Skirt",
   "tooltipKind" : "kyterran_armor",

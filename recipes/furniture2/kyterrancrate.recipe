@@ -5,5 +5,5 @@
   ],
   "duration" : 0.005,
   "output" : { "item" : "kyterrancrate", "count" : 1 },
-  "groups" : [ "saturnstorage", "craftingfurniture", "all" ]
+  "groups" : [ "saturnstorage", "storage", "craftingfurniture", "all" ]
 }

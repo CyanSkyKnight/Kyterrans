@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
-  "category" : "kyterranchestwear",
+  "category" : "chestwear",
   "description" : "^#D8AB43;[Kyterran]^reset; Simple robes without much to make them stand out. It's really soft though.",
   "shortdescription" : "Talus Robes",
   "tooltipKind" : "kyterran_armor",

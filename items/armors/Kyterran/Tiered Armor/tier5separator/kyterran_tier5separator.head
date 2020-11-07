@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Rare",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; Armor made from a white metal mined from a floating island above Myrasyl.",
   "shortdescription" : "Skyplate Helm",
   "tooltipKind" : "kyterran_armor",

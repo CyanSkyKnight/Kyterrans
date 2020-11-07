@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Rare",
-  "category" : "kyterranchestarmour",
+  "category" : "chestarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; Armor made from a white metal mined from a floating island above Myrasyl.",
   "shortdescription" : "Skyplate Chest",
   "tooltipKind" : "kyterran_armor",

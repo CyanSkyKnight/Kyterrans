@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; The horns on this helm are made to resemble the fierce mandibles of ants Kyterrans hunt.",
   "shortdescription" : "Myrmidon Helm",
   "tooltipKind" : "kyterran_armor",

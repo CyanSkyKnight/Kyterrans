@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "category" : "kyterranheadarmour",
+  "category" : "headarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; A traditional helmet of the Ash-kyts, Kyterrans that dwell below ashlands.",
   "shortdescription" : "Ash-kyt Helm",
   "tooltipKind" : "kyterran_armor",

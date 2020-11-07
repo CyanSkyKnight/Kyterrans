@@ -4,7 +4,7 @@
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "kyterranchestarmour",
+  "category" : "chestarmour",
   "description" : "^#D8AB43;[Kyterran]^reset; A rather bulky chestplate emblazened with Solalei's emblem.",
   "shortdescription" : "Royal Sun Guard Chestplate",
   "tooltipKind" : "kyterran_armor",
