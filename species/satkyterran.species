@@ -223,8 +223,8 @@
 	  
 	  "hair" : [ "Ky1","Ky2", "Ky3", "Ky4", "Ky5", "Ky6", "Ky7", "Ky8", "Ky9", "Ky10", "Ky329", "Ky329b", "Kynp48" ],
 	  
-	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_robesBchest", "kyterran_Protectoratechest" ],
-      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_robesBlegs", "kyterran_Protectoratelegs"  ],
+	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_robesBchest", "kyterran_robesPlainchest", "kyterran_Protectoratechest" ],
+      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_robesBlegs", "kyterran_robesPlainlegs", "kyterran_skirt", "kyterran_Protectoratelegs"  ],
       "facialHairGroup" : "",
       "facialHair" : [  ],
       "facialMaskGroup" : "kyterranfacetype",
@@ -251,8 +251,8 @@
 	  
 	  "hair" : [ "Ky1","Ky2", "Ky3", "Ky4", "Ky5", "Ky6", "Ky7", "Ky8", "Ky9", "Ky10", "Ky329", "Ky329b", "Kynp48" ],
 	  
-	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_robesBchest", "kyterran_Protectoratechest" ],
-      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_robesBlegs", "kyterran_Protectoratelegs"  ],
+	  "shirt" : [ "saturnnullchest", "kyterran_robeschest", "kyterran_robesBchest", "kyterran_robesPlainchest", "kyterran_Protectoratechest" ],
+      "pants" : [ "saturnnullpants", "kyterran_robeslegs", "kyterran_robesBlegs", "kyterran_robesPlainlegs", "kyterran_skirt", "kyterran_Protectoratelegs"  ],
       "facialHairGroup" : "",
       "facialHair" : [  ],
       "facialMaskGroup" : "kyterranfacetype",
