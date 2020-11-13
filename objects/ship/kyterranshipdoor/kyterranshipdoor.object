@@ -22,7 +22,7 @@
   
   "orientations" : [
     {
-      "dualImage" : "kyterranshipdoororange.png:default", 
+      "dualImage" : "kyterranshipdoor.png:default", 
 	  "fullbright" : true,
       "imagePosition" : [-20, 0],
       "renderLayer" : "Object+5",

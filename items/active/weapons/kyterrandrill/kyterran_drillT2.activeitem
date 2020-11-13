@@ -98,7 +98,7 @@
   "altAbility" : {
     "scripts" : ["/items/active/weapons/other/drillspear/drillcharge.lua"],
     "class" : "DrillCharge",
-	"name" : "High Power Mode",
+	"name" : "RPM Boost",
 
     "energyUsage" : 25,
 

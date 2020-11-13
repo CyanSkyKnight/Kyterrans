@@ -13,7 +13,7 @@
 
   "inventoryIcon" : [
     {"image" : "kyterrandrillT6.png:1"},
-    {"image" : "kyterrandrill_fullbright.png:1"}
+    {"image" : "kyterrandrillT6_fullbright.png:1"}
   ],
 
   "animation" : "kyterrandrill.animation",
@@ -98,7 +98,7 @@
   "altAbility" : {
     "scripts" : ["/items/active/weapons/other/drillspear/drillcharge.lua"],
     "class" : "DrillCharge",
-	"name" : "High Power Mode",
+	"name" : "RPM Boost",
 
     "energyUsage" : 25,
 
