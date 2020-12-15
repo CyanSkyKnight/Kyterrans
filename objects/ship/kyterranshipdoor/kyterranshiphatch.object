@@ -5,7 +5,7 @@
   "category" : "door",
   "price" : 125,
   "description" : "Generates a bubble-like forcefield as a hatch. Has questionable safety.",
-  "shortdescription" : "Saturnian Bubble Hatch",
+  "shortdescription" : "Kyterran Bubble Hatch",
   "race" : "kyterran",
   "apexDescription" : "A forcefield hatch.",
   "avianDescription" : "A spaceship hatch.",

@@ -1,6 +1,6 @@
 {
   "objectName" : "kyterranshipdoor",
-  "colonyTags" : ["saturn", "kyterran", "door"],
+  "colonyTags" : ["kyterran", "door"],
   "rarity" : "Common",
   "category" : "door",
   "price" : 125,
